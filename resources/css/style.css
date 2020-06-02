@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    /*font-family: 'Tenali Ramakrishna', sans-serif;*/
+    border-top: 2px #fff solid;
     font-size: 48px;
     font-weight: bolder; 
     margin: 5px 0;
@@ -29,20 +29,27 @@ h2 {
 }
 
 h3 {
-    font-size: 24px; 
+    font-size: 36px; 
     font-weight: bold; 
     margin: 10px 5px;
     padding: 5px; 
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: normal;
+    margin: 10px;
 }
 
 h5 {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: lighter;
+    margin: 10px; 
+}
+
+p {
+    margin-top: 12px;
+    font-size: 14px;
 }
 
 /* Navbar Styles */ 
@@ -88,10 +95,11 @@ h1 {
 img {
     border-radius: 5px; 
     opacity: 75%;
-    border: solid #555 1px;
+    border: solid #fff 1px;
     height: auto; 
     width: 60%;
     margin-bottom: 5%;
+    margin-top: 5%;
     margin-right: 5%;
 }
 
@@ -103,6 +111,7 @@ img.character {
     height: 25%; 
     max-height: 175px;  
     overflow: hidden; 
+    margin-top: 0;
 }
 
 .container {
@@ -131,6 +140,8 @@ img.character {
 .container a {
     text-decoration: none; 
 }
+
+/* Lore */
 
 /* Session Recaps */
 
