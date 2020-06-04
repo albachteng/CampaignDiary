@@ -7,51 +7,6 @@
     box-sizing: border-box; 
 }
 
-/*.wrapper {
-    width: 100%;
-    max-width: 960px;
-    margin: 0 auto; 
-}*/ 
-
-/*h1 {
-    font-size: 60px;
-    padding-top: 40px;
-}
-
-h2 {
-    border-top: 2px #fff solid;
-    font-size: 48px;
-    font-weight: bolder; 
-    margin: 5px 0;
-    padding: 5px;
-}
-
-h3 {
-    font-size: 36px; 
-    font-weight: bold; 
-    margin: 10px 5px;
-    padding: 5px; 
-}
-
-h4 {
-    font-size: 24px;
-    font-weight: normal;
-    margin: 10px;
-}
-
-h5 {
-    font-size: 18px;
-    font-weight: lighter;
-    margin: 10px; 
-}
-
-p {
-    margin-top: 12px;
-    font-size: 14px;
-}*/
-
-/* Navbar Styles */ 
-
 nav {
     position: fixed;
     top: 0;
@@ -114,6 +69,25 @@ img.character {
     max-height: 175px;  
     overflow: hidden; 
     margin-top: 0;
+}
+
+@media screen and (max-width: 600px) {
+    img.character {
+        position: relative;
+        top: 125px;
+        left: -125px;
+    }
+}
+
+#people,
+#locations,
+#lore,
+#session {
+    padding: 125px 0 0 0; 
+}
+
+.NPC {
+    padding-top: 25px;
 }
 
 .container {
