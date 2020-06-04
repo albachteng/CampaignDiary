@@ -4,18 +4,16 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #fff;
     background-color: #333;
-    margin: 0; 
-    padding: 0; 
     box-sizing: border-box; 
 }
 
-.wrapper {
+/*.wrapper {
     width: 100%;
     max-width: 960px;
     margin: 0 auto; 
-}
+}*/ 
 
-h1 {
+/*h1 {
     font-size: 60px;
     padding-top: 40px;
 }
@@ -50,40 +48,44 @@ h5 {
 p {
     margin-top: 12px;
     font-size: 14px;
-}
+}*/
 
 /* Navbar Styles */ 
 
-.parent {
+nav {
     position: fixed;
     top: 0;
-    left: 0;
-    margin: 10px auto auto auto; 
     width: 100%;
-    height: 40px;
+    height: auto; 
+    z-index: 100;
 }
 
 nav ul {
-    display: flex;
-    justify-content: flex-end; 
-    flex-wrap: wrap; 
-}
-
-nav li {
     list-style-type: none;
-    padding: 5px;
+    padding: 0 5px;
 }
 
 nav a {
     text-decoration: none; 
     font-weight: bold; 
-    padding: 10px;
-    margin: 5px 5px;
-    border-radius: 5px;
+    text-align: center;
+    display: block; 
+    padding: 0 10px;
 }
 
 nav a:hover {
     background-color: #555;
+}
+
+@media screen and (min-width: 768px) 
+{
+    nav ul {
+        display: flex;
+        justify-content: flex-end;
+    }
+    nav li {
+        flex: 1 1 0;
+    }
 }
 
 /* Banner Section */ 
