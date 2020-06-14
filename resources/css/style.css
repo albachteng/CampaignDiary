@@ -18,7 +18,6 @@ body {
     background-color: var(--bg-primary);
     margin: 0;
     padding: 0;
-    overflow: scroll; 
 }
 
 body::-webkit-scrollbar {
@@ -166,6 +165,7 @@ h1 {
     height: auto; 
     width: 60%;
     float: right; 
+    margin-bottom: 1rem;
 }
 
 aside {
@@ -175,35 +175,32 @@ aside {
 /* Character */ 
 
 img.character {
-    width: 75%;
-    max-width: 150px;
-    height: 75%; 
-    max-height: 175px;  
+    width: 8rem;
+    height: 10rem;  
     overflow: hidden; 
-    margin: 0;
-    padding: 0;
+    margin-top: 1rem;
+    border-radius: 5px;
 }
 
-.NPC {
-    padding-top: 25px;
+.name a {
+    text-decoration: none; 
+    color: var(--text-secondary);
 }
 
 .container {
     display: flex;
-    justify-content: space-around; 
-    align-items: flex-start; 
 }
 
 .container p {
-    width: 60%;
-    height: auto; 
+    width: 75%;
     padding-top: 14px;
+    margin-left: 1rem;
+    color: var(--text-secondary)
 }
 
 .container h4 {
-    width: 30%;
     height: auto; 
-    font-weight: bolder; 
+    font-weight: bold; 
     font-size: 24px;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -228,4 +225,11 @@ aside {
 article {
     border-top: 2px #fff solid; 
     margin-top: 12px;
+    color: var(--text-secondary);
+}
+
+article img {
+    width: 70%;
+    height: auto; 
+    border-radius: 5px;
 }
