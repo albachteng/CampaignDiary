@@ -5,26 +5,52 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="./resources/css/style.css" type="text/css">
         <link href="https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <title>Mondial Campaign</title>
     </head>
     <body>
-            <nav>
-                <ul>
-                    <li><a href="#top">Home</a></li>
-                    <li><a href="#people">People</a></li>
-                    <li><a href="#locations">Locations</a></li>
-                    <li><a href="#lore">Lore</a></li>
-                    <li><a href="#session">Session Recap</a></li>
-                </ul>
-            </nav>
-            <div id="banner">
-                <h1>The Cult of Moonlight</h1>
-                <img src="./resources/images/crow.png">
-                <aside>"This kingdom is called Marina, one of four on the continent the humans call Mondial. Your kind, the Goblins, call it Uca, which means High, but we can say little more of them. We are not from Marina, we of the Au’vanwa are a desert-dwelling people, but we are not from Mondial either. We call this place the Mundane Lands." 
-                </aside> 
-            </div> 
+        <nav class="navbar">
+            <ul class="navbar-nav">
+                <li class="logo">
+                    <a href="#top" class="nav-link">
+                        <i class="fa fa-moon-o"></i>                      
+                        <span class="link-text">Mondial</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#people" class="nav-link">
+                        <i class="fa fa-address-book"></i>                    
+                        <span class="link-text">Characters</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#locations" class="nav-link">
+                        <i class="fa fa-map"></i>                        
+                        <span class="link-text">Locations</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#lore" class="nav-link">
+                        <i class="fa fa-shield"></i>                        
+                        <span class="link-text">Arcana</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#session" class="nav-link">
+                        <i class="fa fa-book"></i>                        
+                        <span class="link-text">Session Recap</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <main>   
+        <div id="banner">
+            <h1>The Cult of Moonlight</h1>
+            <img class="banner-image" src="./resources/images/crow.png">
+            <aside>"This kingdom is called Marina, one of four on the continent the humans call Mondial. Your kind, the Goblins, call it Uca, which means High, but we can say little more of them. We are not from Marina, we of the Au’vanwa are a desert-dwelling people, but we are not from Mondial either. We call this place the Mundane Lands." 
+            </aside> 
+        </div> 
                 <div id="people">
-                    <h2>People</h2>
                     <h3>Player Characters</h3>
                     <div class="container">
                         <div class="name">
@@ -72,7 +98,7 @@
                     </div>
                     <div class="container">
                         <div class="name">
-                            <h4><a href="./resources/sheets/Ulrach Thyrmyr.pdf">Ulrach Thrymyr</a></h4>
+                            <h4><a href="resources/sheets/Ulrach Thyrmyr.pdf">Ulrach Thyrmyr</a></h4>
                             <image class="character" src="resources/images/Minotaur.jpeg"></image>
                         </div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -184,8 +210,8 @@
                             </p>
                 </div>
                 <div id="lore">
-                    <h2>Lore</h2>
-                    <h3>Religion and Arcana</h3>
+                    <h2>Arcana</h2>
+                    <h3>Religion</h3>
                         <p>The Marinese worship Marina, their canonical founder. She is known to them as Our Lady of Storm and Sea.
                             Her child is identified only as "The Moon". Her worshp also seems to be related to the four winds: 
                             Borean, Eureon, Notheon, Zephyron.
@@ -253,5 +279,7 @@
                     </article>
                 </div>
             </div>
+        -->
+            </main>
     </body>
 </html>
