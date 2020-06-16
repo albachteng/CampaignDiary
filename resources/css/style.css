@@ -189,13 +189,15 @@ img.character {
 
 .container {
     display: flex;
+    justify-content: space-between;
 }
 
 .container p {
     width: 75%;
     padding-top: 14px;
     margin-left: 1rem;
-    color: var(--text-secondary)
+    color: var(--text-secondary);
+    text-align: justify;
 }
 
 .container h4 {
@@ -223,8 +225,8 @@ aside {
 }
 
 article {
-    border-top: 2px #fff solid; 
-    margin-top: 12px;
+    border-top: 2px var(--text-secondary) solid; 
+    margin-top: 1rem;
     color: var(--text-secondary);
 }
 
