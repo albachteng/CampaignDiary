@@ -33,7 +33,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 main {
-    margin-left: 5rem;
+    margin-left: 7.5rem;
     padding: 1rem;
 }
 
@@ -144,7 +144,7 @@ i {
         height: 100vh;
     }
     .navbar:hover {
-        width: 16rem;
+        width: 15rem;
     }
     .navbar:hover .link-text {
         display: inline; 
@@ -153,11 +153,6 @@ i {
 }
 
 /* Banner Section */ 
-
-
-h1 {
-    text-align: right; 
-}
 
 .banner-image {
     border-radius: 5px; 
