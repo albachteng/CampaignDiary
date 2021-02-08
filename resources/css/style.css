@@ -231,3 +231,7 @@ article img {
     height: auto; 
     border-radius: 5px;
 }
+
+ul > li {
+    list-style: none; 
+}
