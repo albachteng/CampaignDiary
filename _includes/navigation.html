@@ -1,34 +1,21 @@
 <nav class="navbar">
     <ul class="navbar-nav">
         <li class="logo">
-            <a href="#top" class="nav-link">
+            <a href="" class="nav-link">
                 <i class="fa fa-moon-o"></i>                      
-                <span class="link-text">Mondial</span>
+                <span class="link-text">Home</span>
             </a>
         </li>
+
+{% for item in site.data.navigation %}
+
         <li class="nav-item">
-            <a href="#people" class="nav-link">
-                <i class="fa fa-address-book"></i>                    
-                <span class="link-text">Characters</span>
+            <a href="{{ item.link }}" class="nav-link">
+                <i class="fa {{ item.icon }}"></i>                    
+                <span class="link-text">{{ item.name }}</span>
             </a>
         </li>
-        <li class="nav-item">
-            <a href="#locations" class="nav-link">
-                <i class="fa fa-map"></i>                        
-                <span class="link-text">Locations</span>
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="#lore" class="nav-link">
-                <i class="fa fa-shield"></i>                        
-                <span class="link-text">Arcana</span>
-            </a>
-        </li>
-        <li class="nav-item">
-            <a href="#session" class="nav-link">
-                <i class="fa fa-book"></i>                        
-                <span class="link-text">Session Recap</span>
-            </a>
-        </li>
+
+{% endfor %}
     </ul>
 </nav>

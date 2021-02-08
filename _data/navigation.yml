@@ -1,0 +1,12 @@
+- name: People
+  link: /people.html
+  icon: fa-address-book
+- name: Places
+  link: /places.html
+  icon: fa-map
+- name: Arcana
+  link: /arcana.html
+  icon: fa-shield
+- name: Session Recap
+  link: /sessions.html
+  icon: fa-book
