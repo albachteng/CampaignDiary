@@ -4,11 +4,15 @@
   class: logo
 - name: People
   link: /people.html
-  icon: fa-address-book
+  icon: fa-users
   class: nav-item
 - name: Places
   link: /places.html
   icon: fa-map
+  class: nav-item
+- name: Items
+  link: /items.html
+  icon: fa-magic
   class: nav-item
 - name: Arcana
   link: /arcana.html

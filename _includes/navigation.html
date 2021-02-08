@@ -1,15 +1,16 @@
 <nav class="navbar">
     <ul class="navbar-nav">
 
-{% for item in site.data.navigation %}
+        {% for item in site.data.navigation %}
 
-        <li class="{{ item.class }}">
-            <a href="{{ item.link }}" class="nav-link">
-                <i class="fa {{ item.icon }}"></i>                    
-                <span class="link-text">{{ item.name }}</span>
-            </a>
-        </li>
+            <li class="{{ item.class }}">
+                <a href="{{ item.link }}" class="nav-link">
+                    <i class="fa {{ item.icon }}"></i>                    
+                    <span class="link-text">{{ item.name }}</span>
+                </a>
+            </li>
 
-{% endfor %}
+        {% endfor %}
+
     </ul>
 </nav>
