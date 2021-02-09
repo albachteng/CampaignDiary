@@ -1,6 +1,7 @@
 ---
 layout: default
 title: People
+choice: 
 ---
 <!-- NTS definitely can abstract this and places into the _data file -->
 <h1>Player Characters</h1>
@@ -20,43 +21,19 @@ title: People
 <h1>Non-Player Characters</h1>
 <p>Select an option to filter  NPCs by location.</p>
 
-{% for item in site.data.places %}
+
 <div id="options">
-    <input type="radio" name="place" id="{{ item.name }}" value="{{ item.name }}">
-    <label for="">{{ item.name }}</label>
+    {% for item in site.data.places %}
+        <input type="radio" name="place" id="{{ item.name }}" value="{{ item.name }}">
+        <label for="{{ item.name }}">{{ item.name }}</label>
+    {% endfor %}
 </div>
-{% endfor %}
+<script src="/resources/scripts/script.js"></script>
 
-<script>
-    const getRadioValue = () => {
-        const option = document.getElementById("option");
-        let el = document.getElementsByName("place");
-        for (let i = 0; i < el.length; i++) {
-            if (el[i].checked) {
-                option.innerHTML = el[i].value;
-                console.log(el[i].value);
-            }
-        }
-    }
-    const radios = document.getElementsByName("place");
-    for (radio in radios) {
-        radios[radio].onclick = getRadioValue();
-    } 
-</script>
+<h2 class="another">
+    {% capture choice %}
+    {% endcapture %}
+</h2>
 
-<h2 id="option"></h2>
 
-{% for item in site.data.npc %}
-    {% if item.place == "option" %}
-
-    <div class="container">
-        <div class="name">
-            <h2>{{ item.name }}</h2>
-            <image class="character" src="{{ item.img }}"></image>
-        </div>
-        <p> 
-            {{ item.desc }}
-        </p>
-
-    {% endif %}
-{% endfor %}
+{% include npc.html %}
