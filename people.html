@@ -1,9 +1,7 @@
 ---
 layout: default
 title: People
-choice: 
 ---
-<!-- NTS definitely can abstract this and places into the _data file -->
 <h1>Player Characters</h1>
 
 {% for item in site.data.players %}
@@ -21,7 +19,6 @@ choice:
 <h1>Non-Player Characters</h1>
 <p>Select an option to filter  NPCs by location.</p>
 
-
 <div id="options">
     {% for item in site.data.places %}
         <input type="radio" name="place" id="{{ item.name }}" value="{{ item.name }}">
@@ -30,10 +27,9 @@ choice:
 </div>
 <script src="/resources/scripts/script.js"></script>
 
-<h2 class="another">
-    {% capture choice %}
-    {% endcapture %}
+
+<h2 class="selection">
 </h2>
 
-
 {% include npc.html %}
+  

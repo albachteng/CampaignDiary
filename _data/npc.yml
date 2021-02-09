@@ -17,7 +17,7 @@
 - name: Myca
   desc: lorem
   img: 
-  place: Deep Roads
+  place: DeepRoads
 - name: Merryn
   desc: lorem
   img: 
@@ -37,11 +37,11 @@
 - name: The Gentleman
   desc: lorem
   img: 
-  place: The Weald
+  place: TheWeald
 - name: Rogga
   desc: lorem
   img: 
-  place: Deep Roads
+  place: DeepRoads
 - name: Alva
   desc: lorem
   img: 
@@ -53,4 +53,4 @@
 - name: Dundarrin
   desc: lorem
   img: 
-  place: Deep Roads
+  place: DeepRoads

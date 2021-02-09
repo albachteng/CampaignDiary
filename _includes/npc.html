@@ -1,6 +1,7 @@
-{% for npc in site.data.npc | group_by:"npc.place" %}
+{% for npc in site.data.npc %}
+   
 
-    <div class="container">
+    <div class="container npc {{ npc.place }}">
         <div class="name">
             <h2>{{ npc.name }}</h2>
             <image class="character" src="{{ npc.img }}"></image>
@@ -8,5 +9,6 @@
         <p> 
             {{ npc.desc }}
         </p>
+    </div>
 
 {% endfor %}

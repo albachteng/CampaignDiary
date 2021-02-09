@@ -235,3 +235,8 @@ article img {
 ul > li {
     list-style: none; 
 }
+
+div.hide {
+    display: none; 
+}
+
