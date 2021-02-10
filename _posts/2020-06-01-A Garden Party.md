@@ -7,7 +7,7 @@ layout: post
 
 After being held in the Magistrate's offices for hours, Anders has the party stripped of their weapons and thrown into a cell. Rather than listening to the party's discoveries in the sunken cathedral, Anders insists that Disparia is behind the attacks and that the party are liars (true) and spies (not true). Thanks to Lem's quick thinking, the rogue manages to keep hold of his thieves' tools. But it is the return of the mysterious and furtive Pygmies that saves the party and puts them on the path to save the Duke Geoffrey. Donning magical masks, the party sneaks into a garden party at the Duke's estate.
 
-<image src= "./resources/images/Table Mimic.jpg"></image>
+<image src= "{{ site.url }}/resources/images/Table Mimic.jpg"></image>
 
 At the party, the group splits up to find their equipment and replace Anders at the card table to keep an eye on the Duke. Ulrach learns of the Duke's disturbed daughter, the Lady Dauphine, who speaks in strange fables. Lem observes strange behavior from some of the guests. Rawson and Isho keep watch for the assassination attempt and discover a strange circle of runes in the attic.
 
