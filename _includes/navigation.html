@@ -4,7 +4,7 @@
         {% for item in site.data.navigation %}
 
             <li class="{{ item.class }}">
-                <a href="{{ item.link }}" class="nav-link">
+                <a href="{{ item.link | relative_url }}" class="nav-link">
                     <i class="fa {{ item.icon }}"></i>                    
                     <span class="link-text">{{ item.name }}</span>
                 </a>
