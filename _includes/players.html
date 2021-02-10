@@ -1,11 +1,11 @@
-{% for item in site.players %}
+{% for player in site.players %}
     <div class="container">
         <div class="name">
-            <h2><a target="_blank" href="{{ item.link }}">{{ item.name }}</a></h2>
-            <image class="character" src="{{ item.img }}"></image>
+            <h2><a target="_blank" href="{{ player.link }}">{{ player.name }}</a></h2>
+            <image class="character" src="{{ player.img }}"></image>
         </div>
         <p>
-            {{ item.content }}
+            {{ player.content }}
         </p>
     </div>
 {% endfor %}
