@@ -1,0 +1,13 @@
+{% for city in site.places | where "region", "{{ region.name }}" %}
+
+    <div class="container city">
+        <h3>{{ city.name }}</h3>
+            {% if city.img %}
+            <br>
+                <image src="{{ city.img }}"></image>
+            <br>
+            {% endif %}
+        <p>{{ city.content }}</p>
+    </div>
+
+{% endfor %}

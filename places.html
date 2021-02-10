@@ -4,31 +4,6 @@ title: Places
 ---
 <h1>Regions</h1>
 
-{% for region in site.regions %}
+{% include regions.html %}
 
-    <div class="container nation">
-        <h2>{{ region.name }}</h2>
-            {% if region.img %}
-                <image src="{{ region.img }}"></image>
-            {% endif %}
-        <p>{{ region.content | markdownify }}</p>
-    </div>
-
-    {% if region.cities %}
-        {% for city in site.cities %}
-
-            <div class="container city">
-                <h3>{{ city.name }}</h3>
-                    {% if city.img %}
-                    <br>
-                        <image src="{{ city.img }}"></image>
-                    <br>
-                    {% endif %}
-                <p>{{ city.content }}</p>
-            </div>
-
-        {% endfor %}
-    {% endif %}
-
-{% endfor %}
-
+{% include places.html %}

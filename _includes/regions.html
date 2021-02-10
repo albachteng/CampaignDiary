@@ -1,0 +1,31 @@
+{% for region in site.regions %}
+
+    <div class="container region">
+        <h2>{{ region.name }}</h2>
+            {% if region.img %}
+                <image src="{{ region.img }}"></image>
+            {% endif %}
+        <p>{{ region.content | markdownify }}</p>
+        {% if region.cities %}
+            <button>Show Places</button>
+        {% endif %}
+    </div>
+
+    {% for city in site.places %}
+
+        {% if city.region == region.name %}
+            <div class="container city">
+                <h3>{{ city.name }}</h3>
+                    {% if city.img %}
+                    <br>
+                        <image src="{{ city.img }}"></image>
+                    <br>
+                    {% endif %}
+                <p>{{ city.content }}</p>
+            </div>
+        {% endif %}
+
+    {% endfor %}
+
+{% endfor %}
+

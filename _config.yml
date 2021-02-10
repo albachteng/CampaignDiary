@@ -1,6 +1,8 @@
 collections: 
   items:
   regions: 
+    output: true
   places: 
+    output: true
   players:
   npcs: 
