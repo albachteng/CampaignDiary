@@ -4,32 +4,14 @@ title: People
 ---
 <h1>Player Characters</h1>
 
-{% for item in site.data.players %}
-    <div class="container">
-        <div class="name">
-            <h2><a target="_blank" href="{{ item.link }}">{{ item.name }}</a></h2>
-            <image class="character" src="{{ item.img }}"></image>
-        </div>
-        <p>
-            {{ item.desc }}
-        </p>
-    </div>
-{% endfor %}
+    {% include players.html %}
 
 <h1>Non-Player Characters</h1>
 <p>Select an option to filter  NPCs by location.</p>
 
-<div id="options">
-    {% for item in site.data.places %}
-        <input type="radio" name="place" id="{{ item.name }}" value="{{ item.name }}">
-        <label for="{{ item.name }}">{{ item.name }}</label>
-    {% endfor %}
-</div>
-<script src="/assets/js/script.js"></script>
+    {% include filter.html %}
 
+<h2 class="selection"></h2>
 
-<h2 class="selection">
-</h2>
-
-{% include npc.html %}
+    {% include npc.html %}
   
