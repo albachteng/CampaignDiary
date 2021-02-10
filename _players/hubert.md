@@ -1,6 +1,6 @@
 ---
 name: Hubert
-link: /assets/sheets/Hubert.pdf
-img: /assets/images/assassin.jpg
+link: ./assets/sheets/Hubert.pdf
+img: ./assets/images/assassin.jpg
 ---
 When the party first found him, he was part of a band of mercenaries killing adventurers and stealing any magical items they could find. But Hubert quickly made a deal with them in exchange for his life and he has more than kept his word. Raised in Lundis as an assassin for the Church, his first loyalty is to his god Malorn. With the fall of Lundis to Disparian invasion, Hubert has stood by his new companions longer than he originally anticipated. And with his previously destroyed legs now miraculously healed, he seems bent on re-establishing the Church of Malorn and some other grim task seemingly revealed to him in prayer: to kill Einan the Black, the Mage-Prince of Disparia. 

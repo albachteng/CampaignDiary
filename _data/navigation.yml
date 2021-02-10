@@ -1,24 +1,24 @@
 - name: Home
-  link: /
+  link: ./
   icon: fa-moon-o
   class: logo
 - name: People
-  link: /people.html
+  link: ./people.html
   icon: fa-users
   class: nav-item
 - name: Places
-  link: /places.html
+  link: ./places.html
   icon: fa-map
   class: nav-item
 - name: Items
-  link: /items.html
+  link: ./items.html
   icon: fa-magic
   class: nav-item
 - name: Arcana
-  link: /arcana.html
+  link: ./arcana.html
   icon: fa-shield
   class: nav-item
 - name: Session Recap
-  link: /sessions.html
+  link: ./sessions.html
   icon: fa-book
   class: nav-item
