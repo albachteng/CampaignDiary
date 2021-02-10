@@ -1,13 +1,29 @@
-{% for city in site.places | where "region", "{{ region.name }}" %}
+{% for region in site.regions %}
 
-    <div class="container city">
-        <h3>{{ city.name }}</h3>
-            {% if city.img %}
-            <br>
-                <image src="{{ city.img }}"></image>
-            <br>
+    <div class="container region">
+        <h2>{{ region.name }}</h2>
+            {% if region.img %}
+                <image src="{{ region.img }}"></image>
             {% endif %}
-        <p>{{ city.content }}</p>
+        <p>{{ region.content | markdownify }}</p>
+        <button>Show Region</button>
     </div>
 
+    {% for city in site.places %}
+
+        {% if city.region == region.name %}
+            <div class="container city hide">
+                <h3>{{ city.name }}</h3>
+                    {% if city.img %}
+                    <br>
+                        <image src="{{ city.img }}"></image>
+                    <br>
+                    {% endif %}
+                <p>{{ city.content }}</p>
+            </div>
+        {% endif %}
+
+    {% endfor %}
+
 {% endfor %}
+

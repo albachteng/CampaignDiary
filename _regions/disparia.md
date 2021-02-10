@@ -1,6 +1,5 @@
 ---
 name: Disparia
-cities: [Malachi's Watch, Au'vanwa, The Bay of Fire, The Rifts]
 img: 
 ---
 Friends to none, the Disparians are known to be militant and fiercely protective. Their proximity to the desert leads to regular conflict with the Au'vanwa nomads that dwell there. Disparia invaded Marina in generations past, but Marina held the line, ultimately ceding the Bay of Fire to the Disparian King.

@@ -70,7 +70,7 @@ article img { width: 70%; height: auto; border-radius: 5px; }
 
 ul > li { list-style: none; }
 
-div.hide { display: none; }
+.hide { display: none; }
 
 .city > img { width: auto; max-height: 4rem; display: block; }
 

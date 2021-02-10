@@ -1,6 +1,5 @@
 ---
 name: Marina
-cities: [Chain's End, Redwater, Balnying, Circle of Enchantment]
 img: 
 ---
 Canonically founded by the Goddess of Storm and Sea Marinal, 
