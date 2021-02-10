@@ -240,3 +240,8 @@ div.hide {
     display: none; 
 }
 
+.city > img {
+    width: auto;
+    max-height: 4rem; 
+    display: block; 
+}

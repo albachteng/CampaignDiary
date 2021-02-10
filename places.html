@@ -4,3 +4,31 @@ title: Places
 ---
 <h1>Locations</h1>
 
+{% for place in site.data.places %}
+
+    <div class="container nation">
+        <h2>{{ place.name }}</h2>
+            {% if place.img %}
+                <image src="{{ place.img }}"></image>
+            {% endif %}
+        <p>{{ place.desc }}</p>
+    </div>
+
+    {% if place.cities %}
+        {% for city in place.cities %}
+
+            <div class="container city">
+                <h3>{{ city.name }}</h3>
+                    {% if city.img %}
+                    <br>
+                        <image src="{{ city.img }}"></image>
+                    <br>
+                    {% endif %}
+                <p>{{ city.desc }}</p>
+            </div>
+
+        {% endfor %}
+    {% endif %}
+
+{% endfor %}
+
