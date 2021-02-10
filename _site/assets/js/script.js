@@ -15,6 +15,3 @@ document.addEventListener('click', () => {
         }
     }
 }); 
-
-// NTS - rather than rely on Jekyll to handle the logic, let's write a script that 
-// hides the NPCs that are not selected (ie the ones whose place doesn't match)

@@ -6,18 +6,18 @@
                 <image src="{{ region.img }}"></image>
             {% endif %}
         <p>{{ region.content | markdownify }}</p>
-        <button>Show Region</button>
+        <button class="{{ region.name | remove: ' ' }}">Show Region</button>
     </div>
 
     {% for city in site.places %}
 
         {% if city.region == region.name %}
-            <div class="container city hide">
+            <div class="container city {{ city.region | remove ' ' }} hide">
                 <h3>{{ city.name }}</h3>
                     {% if city.img %}
-                    <br>
+                        <br>
                         <image src="{{ city.img }}"></image>
-                    <br>
+                        <br>
                     {% endif %}
                 <p>{{ city.content }}</p>
             </div>
