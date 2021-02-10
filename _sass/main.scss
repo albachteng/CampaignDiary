@@ -21,21 +21,20 @@ body {
 }
 
 body::-webkit-scrollbar {
-    width: 0.25rem;
+    width: 0.5rem;
 }
 
 body::-webkit-scrollbar-track {
-    background: #1e1e24;
+    background: var(--bg-secondary);
 }
 
 body::-webkit-scrollbar-thumb {
-    background: #333
+    background: var(--text-primary)
 }
 
 main {
-    margin-left: 7.5rem;
+    margin-left: 15rem;
     padding: 1rem;
-    max-width: 50rem;
 }
 
 .navbar {
@@ -58,9 +57,7 @@ main {
     width: 100%;
 }
 
-.nav-item:last-child {
-    margin-top: auto;
-}
+
 
 .nav-link {
     display: flex;
@@ -155,18 +152,6 @@ i {
 
 /* Banner Section */ 
 
-.banner-image {
-    border-radius: 5px; 
-    border: solid #fff 1px;
-    height: auto; 
-    width: 60%;
-    float: right; 
-    margin-bottom: 1rem;
-}
-
-aside {
-    clear: right; 
-}
 
 /* Character */ 
 
@@ -180,56 +165,32 @@ img.character {
 
 .name a {
     text-decoration: none; 
-    color: var(--text-secondary);
-}
-
-.container {
-    display: flex;
-    justify-content: space-between;
+    color: var(--text-primary);
+    :hover {
+        color: var(--text-secondary);
+    }
 }
 
 .container p {
-    width: 75%;
-    padding-top: 14px;
-    margin-left: 1rem;
-    color: var(--text-secondary);
-    text-align: justify;
-}
-
-.container h4 {
-    height: auto; 
-    font-weight: bold; 
-    font-size: 24px;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
-
-.container a {
-    text-decoration: none; 
+    color: var(--text-primary);
+    margin: 1rem 0;
 }
 
 /* Lore */
 
 /* Session Recaps */
 
-aside {
-    font-style: italic;
-    font-weight: lighter;
-    font-size: 18px; 
-    color: #777;
-    padding: 5px 0 20px 20px;
-}
-
-article {
-    border-top: 2px var(--text-secondary) solid; 
-    margin-top: 1rem;
+a {
+    text-decoration:  none; 
     color: var(--text-secondary);
 }
 
-article img {
-    width: 70%;
-    height: auto; 
-    border-radius: 5px;
+blockquote {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 18px; 
+    color: var(--text-primary);
+    padding: 5px 0 20px 20px;
 }
 
 ul > li {
