@@ -62,4 +62,6 @@ ul > li { list-style: none; }
 
 .city > img { width: auto; max-height: 4rem; display: block; }
 
+img { max-width: 50%; height: auto; }
+
 /*# sourceMappingURL=styles.css.map */
