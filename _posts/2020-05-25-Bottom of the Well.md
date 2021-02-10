@@ -3,7 +3,7 @@ layout: post
 ---
 <blockquote>You descend forty feet down the old well, noting the intricate carvings along its edges, matching them to the Lighthouse at the tip of the peninsula Marinal's Call. At its base is a staircase spiraling even further into the depths. The hall to the south is caved in, but to the north you are met with high, stained-glass windows. As you continue your exploration, the ceiling opens up into a high dome. Reflected in the glass, in frescoes, in statues carved into columns, the cathedral's repeating motif is that of a serenely smiling sun and feathered wings.</blockquote>
 
-<image src="/resources/images/Cathedral Ceiling.png"></image>
+<image src="./resources/images/Cathedral Ceiling.png"></image>
 
 The party's investigations topside lead them to Ora, a witch at the edge of the woods a day's journey due north of Redwater. She reveals to the party that she has been hiding from both the Marinese authorities - whose anti-magic sensibilities were on full display in Redwater - as well as the Circle of Illusion, a coalition of mages deep in the forests to the north, past the river <em>Llewellyn's Chain</em>. Her practices have aided the locals to some degree, so they keep her presence a secret.
 
