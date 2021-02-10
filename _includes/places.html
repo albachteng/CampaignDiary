@@ -12,7 +12,7 @@
     {% for city in site.places %}
 
         {% if city.region == region.name %}
-            <div class="container city {{ city.region | remove ' ' }} hide">
+            <div class="container city {{ city.region | remove: ' ' }} hide">
                 <h3>{{ city.name }}</h3>
                     {% if city.img %}
                         <br>
