@@ -1,81 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="./assets/css/styles.css" type="text/css">
-        <link href="https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>A garden party</title>
-  </head>
-  <body>
-    <nav class="navbar">
-    <ul class="navbar-nav">
-
-        
-
-            <li class="logo">
-                <a href="/" class="nav-link">
-                    <i class="fa fa-moon-o"></i>                    
-                    <span class="link-text">Home</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/people.html" class="nav-link">
-                    <i class="fa fa-users"></i>                    
-                    <span class="link-text">People</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/places.html" class="nav-link">
-                    <i class="fa fa-map"></i>                    
-                    <span class="link-text">Places</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/items.html" class="nav-link">
-                    <i class="fa fa-magic"></i>                    
-                    <span class="link-text">Items</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/arcana.html" class="nav-link">
-                    <i class="fa fa-shield"></i>                    
-                    <span class="link-text">Arcana</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/sessions.html" class="nav-link">
-                    <i class="fa fa-book"></i>                    
-                    <span class="link-text">Session Recap</span>
-                </a>
-            </li>
-
-        
-
-    </ul>
-</nav>
-    <main>
-      <main>
-    <h1>A garden party</h1>
-    <h2>01 Jun 2020</h2>
-    <blockquote>
+I"<blockquote>
     A hush falls over the party-goers. A loud pop and fading whine soars up into the midnight sky. After a moment of silence there is a crackle and a series of multicolored explosions light up the garden, casting long shadows against the Duke’s Estate. Red, blue, green and yellow fires in the shapes of flowers, shooting stars and glittering suns are painted across the sky as more and more fireworks are launched into the air. The crowd gasps and applauds. For many, it is the first time in their lives that they have seen such a display. A moment later, the screaming begins. 
 </blockquote>
 
@@ -100,10 +23,4 @@
 <p>The gentleman disappears in a flutter of wings as dozens of ravens screech through the iron bars of Redwater’s cells.</p>
 
 <p>Invited by Duke Geoffrey and Captain Loom to remain awhile at the Redwater estate, the party now rests, researches and plans their next move. Increasingly, the signs point to Lundis as likely instigator of the assassination and the framing of Disparia. Lundis and the Circle of Illusion have kept to themselves for a hundred years within the Great Forest. And so becomes our adventurer’s destination.</p>
-
-</main>
-
-    </main>
-  </body>
-</html>
-
+:ET
