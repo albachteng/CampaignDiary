@@ -2,20 +2,20 @@
 layout: default
 title: Places
 ---
-<h1>Locations</h1>
+<h1>Regions</h1>
 
-{% for place in site.data.places %}
+{% for region in site.regions %}
 
     <div class="container nation">
-        <h2>{{ place.name }}</h2>
-            {% if place.img %}
-                <image src="{{ place.img }}"></image>
+        <h2>{{ region.name }}</h2>
+            {% if region.img %}
+                <image src="{{ region.img }}"></image>
             {% endif %}
-        <p>{{ place.desc }}</p>
+        <p>{{ region.content | markdownify }}</p>
     </div>
 
-    {% if place.cities %}
-        {% for city in place.cities %}
+    {% if region.cities %}
+        {% for city in site.cities %}
 
             <div class="container city">
                 <h3>{{ city.name }}</h3>
@@ -24,7 +24,7 @@ title: Places
                         <image src="{{ city.img }}"></image>
                     <br>
                     {% endif %}
-                <p>{{ city.desc }}</p>
+                <p>{{ city.content }}</p>
             </div>
 
         {% endfor %}

@@ -1,0 +1,6 @@
+---
+name: Redwater
+region: Marina
+img: 
+---
+Sitting at the top of the peninsula known as Marinal's Call, Redwater is ideally situated to observe any potential invasions by sea. Even enemy ships seeking to surprise Marina from Disparia would have to stick close to shore and would therefore need to take a long route around the Call. It is a well-fortified town of modest size. It takes its name from the last war with Disparia, where its walls marked the high-water mark of the Disparian advance.
