@@ -12,7 +12,7 @@ layout: post
     cargo by a group of Filian Wizards. It is day ten.
 </blockquote>
 
-<image src="{{ site.url }}/resources/images/kraken.jpg"></image>
+<image src="{{ site.url }}/assets/images/kraken.jpg"></image>
 
 Our party of adventurous mercenaries notice strange
 behavior from water elementals, as well as an unusual
