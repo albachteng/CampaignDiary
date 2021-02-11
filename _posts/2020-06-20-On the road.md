@@ -1,6 +1,9 @@
 ---
 layout: post
 ---
+<blockquote>
+The day dawns bright and crisp, sunlight streaming through silk curtains. You wake, as you have for the last tenday, in a soft feather bed. The scents and sounds of the sea mingle gently with those of the market, the smoke of the forges. Downstairs, you can hear the servants setting out your breakfast. You are guests of the Good Duke Geoffrey, whose life you recently saved, and into whose services you now find yourself bound. All good things must come to an end. Today is the date of your agreed-upon departure.</blockquote>
+
 The party managed to avoid conflict for nearly a full day. 
 
 The roads of Marina between Redwater and the Lundisian border are safe enough - and mostly untravelled. But the party noticed a campfire and approached in stealth to discover a rival troupe. 
