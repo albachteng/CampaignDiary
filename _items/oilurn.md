@@ -1,0 +1,5 @@
+---
+name: Oil Urn
+type: consummable
+---
+This yellow clay pot imposes weakness to fire on a successful ranged attack. Its range is 50ft and has no long range, although certain other conditions may impose disadvantage. A creature with a weakness to fire will take double fire damage from all sources. 

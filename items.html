@@ -7,7 +7,12 @@ title: Items
 {% for item in site.items %}
     <div class="container {{ item.type }}">
         <h2>{{ item.name }}</h2>
+        <h3>{{ item.type }}</h3>
         <p>{{ item.content | markdownify }}</p>
     </div>
+
+    {% if item.type == "consummable" %}
+        <p>You may use one consummable item per round as a free action. Subsequent uses within a round consume a full Action. You can carry six health vials and six other kinds of consummables on your person and within easy reach during combat unless you have taken levels in Artificer, for whom the limitations are doubled.</p>
+    {% endif %}
    
 {% endfor %}

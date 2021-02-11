@@ -1,0 +1,7 @@
+---
+name: Quickening
+type: consummable
+---
+This potion requires a bonus action to drink. 
+
+Grants a short-term teleportation for 3 rounds. You can teleport 10ft as a free action, including as a reaction (once per round) in response to an attack, nullifying the attack. If you are subject to an area-of-effect attack, you can use this ability to avoid all damage, if it is possible to escape the area of effect. 

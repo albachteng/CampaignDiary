@@ -1,4 +1,7 @@
 ---
-name: Puzzle Box
+name: Kolat's Puzzle Box
 type: weapon
 ---
+Lem received this item from the wizard Kolat. It is a six-inch square puzzle box, capable of being manipulated into a number of bizarre geometrical configurations. After some effort, he discovered one possible solution, which allowed the bearer to use it as an arcane focus and cast Chill Touch as a cantrip, manifesting ghostly tentacles instead of hands.
+
+It may have other secrets to reveal, but so far he has been unsuccessful in solving the other configurations. 

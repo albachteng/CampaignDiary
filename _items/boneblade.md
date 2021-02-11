@@ -2,3 +2,6 @@
 name: Shaman Bone Blade
 type: consummable 
 ---
+Using this sickly green dagger requires that you pierce the flesh of an enemy to gain their temporary subservience. Doing so destroys the blade. The enemy makes a DC12 wisdom save to avoid the effects, and otherwise is an ally for 3 rounds. 
+
+Afterwards, the creature regains control over itself but may not remember what has happened after being stabbed. 
