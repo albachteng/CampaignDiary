@@ -20,9 +20,9 @@ The party is quick to act, as are Captain Loom of the Marinese army and Ada Dalt
 They return, with Captain Loom, to the cell where they left Anders. What they find there is shocking.
 
 <blockquote>
-    A strange gentleman in elegant attire of gold and bright green stands over the bloodied corpse of Anders Willifort, sometime Steward of Redwater. His throat has been slashed as if viciously torn open by teeth and claw. The gentleman is wiping his blood-stained hands on a soft white handkerchief as you approach. His bright eyes give off an eerie, golden light. Stranger still, however, are his horns - the curved horns of a ram. He is not an elf. He is not a minotaur. He is not a dragonborn. He is something in between them all. He smiles in a manner that, were it not for the circumstances, might be entirely disarming. 
+    A strange gentleman in elegant attire of gold and bright green stands over the bloodied corpse of Anders Willifort, sometime Steward of Redwater. His throat has been slashed as if viciously torn open by tooth and claw. The gentleman is wiping his blood-stained hands on a soft white handkerchief as you approach. His bright eyes give off an eerie, golden light. Stranger still, however, are his horns - the curved horns of a ram. He is not an elf. He is not a minotaur. He is not a dragonborn. He is something in between them all. He smiles in a manner that, were it not for the circumstances, might be entirely disarming. 
 </blockquote>
 
-The gentleman disappears in a flutter of wings as dozens of ravens screech through the iron bars of Redwater's cells. 
+The gentleman disappears in a flutter of wings as dozens of ravens shriek through the iron bars of Redwater's cells. 
 
 Invited by Duke Geoffrey and Captain Loom to remain awhile at the Redwater estate, the party now rests, researches and plans their next move. Increasingly, the signs point to Lundis as likely instigator of the assassination and the framing of Disparia. Lundis and the Circle of Illusion have kept to themselves for a hundred years within the Great Forest. And so becomes our adventurer's destination.
