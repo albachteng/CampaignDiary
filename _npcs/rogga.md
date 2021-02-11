@@ -2,4 +2,6 @@
 name: Rogga
 place: Deep Roads
 ---
-lorem
+This mysterious and unkempt dwarf has popped up along the party's path through Mondial too many times for it to be a coincidence. He seems to be much more powerful than he let on, seemingly capable of control over stone, earth and lightning. He speaks in riddles, contradicts himself, and has even unceremoniously pushed Lem into a fiery pit. He has warned the party that he is "a bad friend, and a very good enemy."
+
+The last time the party saw him, he seemed to be able to attack The Gentleman through the veil that separates The Weald from Mondial. 
