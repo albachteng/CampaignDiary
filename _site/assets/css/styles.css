@@ -35,7 +35,7 @@ i { color: #48c8d2; transition: var(--transition-speed); }
 .navbar:hover .logo i { transform: rotate(-180deg); }
 
 /* small screens */
-@media only screen and (max-width: 600px) { .navbar { bottom: 0; width: 100vw; height: 5rem; } .logo { display: none; } .navbar-nav { flex-direction: row; } .nav-link { justify-content: center; } main { margin: 0; } }
+@media only screen and (max-width: 600px) { .navbar { bottom: 0; width: 100%; height: 5rem; } .logo { display: none; } .navbar-nav { flex-direction: row; } .nav-link { justify-content: center; } body { margin: 0; padding-bottom: 10rem; } #push { position: relative; margin-bottom: 100rem; clear: both; visibility: hidden; } }
 
 /* large screens */
 @media only screen and (min-width: 600px) { .navbar { top: 0; width: 5rem; height: 100vh; } .navbar:hover { width: 15rem; } .navbar:hover .link-text { display: inline; transition: opacity var(--transition-speed); } }
