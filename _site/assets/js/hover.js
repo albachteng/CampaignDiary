@@ -2,7 +2,7 @@ const navbar = document.getElementById("navbar");
 const main = document.getElementById("main"); 
 
 function navbarIn() {
-    main.setAttribute("style", "margin-left: 15rem;");
+    main.setAttribute("style", "transition: margin-left 400ms; margin-left: 15rem;");
 }
 
 function navbarOut() {

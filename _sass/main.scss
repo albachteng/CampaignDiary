@@ -7,7 +7,7 @@
     --text-secondary: #ededed;
     --bg-primary: #23232e;
     --bg-secondary: #141418;
-    --transition-speed: 200ms;
+    --transition-speed: 500ms;
     --blue: rgb(72, 200, 210);
 }
 
@@ -73,7 +73,7 @@ body::-webkit-scrollbar-thumb {
 
 .link-text {
     display: none; 
-    margin-left: 1rem;
+    margin-left: .5rem;
 }
 
 .nav-link i {
@@ -125,7 +125,7 @@ i {
         justify-content: center;
     }
     main {
-        margin-left: 5rem;
+        margin-left: 1rem;
     }
 
 /* large screens */ 
@@ -144,6 +144,7 @@ i {
     }
     .navbar:hover {
         width: 15rem;
+        transition: width var(--transition-speed);
     }
     .navbar:hover .link-text {
         display: inline; 
@@ -151,6 +152,7 @@ i {
     }
     main {
         padding: 1rem;
+        margin-left: 5rem; 
     }
     main.hover {
         margin-left: 15rem; 
