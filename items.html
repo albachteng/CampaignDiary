@@ -6,8 +6,8 @@ title: Items
     
 {% for item in site.items %}
     <div class="container {{ item.type }}">
-        <h2>{{ item.name }}</h2> 
-        <p>{{ item.type }}</p>
+        <h2>{{ item.name }}</h2>
+        <h3>{{ item.type }}</h3>
         <p>{{ item.content | markdownify }}</p>
     </div>
 
