@@ -41,8 +41,10 @@ i { color: #48c8d2; transition: var(--transition-speed); }
 
 .nav-link { justify-content: center; }
 
+main { margin-left: 5rem; }
+
 /* large screens */
-@media only screen and (min-width: 601px) { .navbar { top: 0; width: 5rem; height: 100vh; } .navbar:hover { width: 15rem; } .navbar:hover .link-text { display: inline; transition: opacity var(--transition-speed); } main { padding: 1rem; } }
+@media only screen and (min-width: 601px) { .navbar { top: 0; width: 5rem; height: 100vh; } .navbar-nav { flex-direction: column; } .navbar:hover { width: 15rem; } .navbar:hover .link-text { display: inline; transition: opacity var(--transition-speed); } main { padding: 1rem; } }
 
 /* Banner Section */
 /* Character */

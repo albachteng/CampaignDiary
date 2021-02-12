@@ -124,6 +124,9 @@ i {
     .nav-link {
         justify-content: center;
     }
+    main {
+        margin-left: 5rem;
+    }
 
 /* large screens */ 
 
@@ -132,6 +135,9 @@ i {
         top: 0;
         width: 5rem;
         height: 100vh;
+    }
+    .navbar-nav {
+        flex-direction: column;
     }
     .navbar:hover {
         width: 15rem;
