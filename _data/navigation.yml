@@ -18,7 +18,7 @@
   link: ./arcana.html
   icon: fa-shield
   class: nav-item
-- name: Sessions
+- name: Session
   link: ./sessions.html
   icon: fa-book
   class: nav-item

@@ -11,8 +11,6 @@
     --blue: rgb(72, 200, 210);
 }
 
-/* Navbar section */ 
-
 body {
     color: var(--text-primary);
     background-color: var(--bg-primary);
@@ -32,6 +30,7 @@ body::-webkit-scrollbar-thumb {
     background: var(--text-primary)
 }
 
+/* Navbar section */ 
 
 .navbar {
     position: fixed;
@@ -52,8 +51,6 @@ body::-webkit-scrollbar-thumb {
 .nav-item {
     width: 100%;
 }
-
-
 
 .nav-link {
     display: flex;
@@ -87,14 +84,6 @@ i {
 }
 
 .logo {
-    font-weight: bold;
-    text-transform: uppercase;
-    margin-bottom: 1rem;
-    text-align: center;
-    color: var(--text-secondary);
-    background: var(--bg-secondary);
-    font-size: 1.5rem;
-    letter-spacing: 0.3ch;
     width: 100%;
 }
 
@@ -107,8 +96,7 @@ i {
     transform: rotate(-180deg);
 }
 
-
-/* small screens */
+/* small screens - default */
 
     .navbar {
         bottom: 0;
@@ -125,10 +113,10 @@ i {
         justify-content: center;
     }
     main {
-        margin-left: 1rem;
+        margin: 1rem;
     }
 
-/* large screens */ 
+/* large screens - over 600px */ 
 
 @media only screen and (min-width: 601px) {
     .navbar {
@@ -142,8 +130,14 @@ i {
     .navbar-nav {
         flex-direction: column;
     }
+    .nav-link {
+        justify-content: flex-start;
+    }
+    .nav-link > * {
+        width: 2rem;
+    }
     .navbar:hover {
-        width: 15rem;
+        width: 10rem;
         transition: width var(--transition-speed);
     }
     .navbar:hover .link-text {
@@ -152,10 +146,7 @@ i {
     }
     main {
         padding: 1rem;
-        margin-left: 5rem; 
-    }
-    main.hover {
-        margin-left: 15rem; 
+        margin-left: 4rem; 
     }
 }
 

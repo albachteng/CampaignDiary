@@ -2,11 +2,11 @@ const navbar = document.getElementById("navbar");
 const main = document.getElementById("main"); 
 
 function navbarIn() {
-    main.setAttribute("style", "transition: margin-left 400ms; margin-left: 15rem;");
+    main.setAttribute("style", "transition: margin-left 400ms; margin-left: 10rem;");
 }
 
 function navbarOut() {
-    main.removeAttribute("style");
+    main.setAttribute("style", "transition: margin-left 400ms; margin-left: 4rem;");
 }
 
 if (window.innerWidth <= 601) {

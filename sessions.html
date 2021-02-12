@@ -2,7 +2,7 @@
 layout: default
 title: Sessions
 ---
-<ul>
+<ul class="sessions">
     {% for post in site.posts %}
     <li>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date_to_string }}</a></h2>
