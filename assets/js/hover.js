@@ -1,18 +1,15 @@
-const main = document.getElementById('main');
-const navbar = document.getElementById('navbar');
-console.log(main); 
+const navbar = document.getElementById("navbar");
+const main = document.getElementById("main"); 
+console.log(main)
 console.log(navbar); 
 
-document.addEventListener('mouseover', (e) => {
-    if (e.target == navbar) {
-        console.log('hover'); 
-        main.classList.add('hover');
-    }
-});
+navbar.addEventListener("mouseover", navbarIn, false);
+navbar.addEventListener("mouseleave", navbarOut, false); 
 
-document.addEventListener('mouseout', (e) => {
-    if (e.target == navbar) {
-        console.log('stop hover'); 
-        main.classList.remove('hover');
-    }
-});
+function navbarIn() {
+    main.setAttribute("style", "margin-left: 15rem;");
+}
+
+function navbarOut() {
+    main.removeAttribute("style");
+}
