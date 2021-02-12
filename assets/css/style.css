@@ -177,9 +177,10 @@ img.character {
 .name a {
     text-decoration: none; 
     color: var(--text-primary);
-    :hover {
-        color: var(--text-secondary);
-    }
+}
+
+.name a:hover {
+    color: var(--text-secondary); 
 }
 
 .container p {
