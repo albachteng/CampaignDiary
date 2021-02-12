@@ -3,8 +3,8 @@
 :root {
     font-size: 16px;
     font-family: sans-serif;
-    --text-primary: #d9d9d9;
-    --text-secondary: #ededed;
+    --text-primary: #dadada;
+    --text-secondary: #efefef;
     --bg-primary: #23232e;
     --bg-secondary: #141418;
     --transition-speed: 500ms;
@@ -58,7 +58,7 @@ body::-webkit-scrollbar-thumb {
     height: 5rem;
     color: var(--text-primary);
     text-decoration: none; 
-    filter: grayscale(100%) opacity(0.7);
+    filter: grayscale(100%) opacity(.6);
     transition: var(--transition-speed); 
 }
 
@@ -100,7 +100,7 @@ i {
 
     .navbar {
         bottom: 0;
-        width: 100%;
+        width: 100vw;
         height: 5rem;
     }
     .logo {
@@ -150,10 +150,22 @@ i {
     }
 }
 
+/* Landing Page */ 
 
+img {
+    max-width: 75%;
+    height: auto; 
+}
 
-/* Banner Section */ 
+.site-title {
+    color: var(--text-secondary);
+}
 
+.welcome {
+    margin-right: 2rem;
+    max-width: 800px;
+    line-height: 1.2rem;
+}
 
 /* Character */ 
 
@@ -210,7 +222,3 @@ ul > li {
     display: block; 
 }
 
-img {
-    max-width: 50%;
-    height: auto; 
-}
