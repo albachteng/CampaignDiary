@@ -1,7 +1,5 @@
 const navbar = document.getElementById("navbar");
 const main = document.getElementById("main"); 
-console.log(main)
-console.log(navbar); 
 
 function navbarIn() {
     main.setAttribute("style", "margin-left: 15rem;");
