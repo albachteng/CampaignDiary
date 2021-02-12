@@ -3,8 +3,8 @@
 :root {
     font-size: 16px;
     font-family: sans-serif;
-    --text-primary: #b6b6b6;
-    --text-secondary: #ececec;
+    --text-primary: #d9d9d9;
+    --text-secondary: #ededed;
     --bg-primary: #23232e;
     --bg-secondary: #141418;
     --transition-speed: 200ms;
@@ -14,7 +14,7 @@
 /* Navbar section */ 
 
 body {
-    color: var(--text-secondary);
+    color: var(--text-primary);
     background-color: var(--bg-primary);
     margin: 0;
     padding: 0;
@@ -136,6 +136,9 @@ i {
         width: 5rem;
         height: 100vh;
     }
+    .logo {
+        display: block; 
+    }
     .navbar-nav {
         flex-direction: column;
     }
@@ -148,6 +151,9 @@ i {
     }
     main {
         padding: 1rem;
+    }
+    main.hover {
+        margin-left: 15rem; 
     }
 }
 
