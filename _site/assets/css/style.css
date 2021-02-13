@@ -223,8 +223,8 @@ img.character {
 button {
     background: #474766; 
     color: var(--text-secondary);
-    width: 9rem;
-    height: 3rem;
+    width: 8rem;
+    height: 2rem;
     margin: 0 auto;
     padding: 0;
     display: inline-block;
@@ -239,6 +239,12 @@ button {
     z-index: 1; 
     margin-left: 1px;
     margin-bottom: 1rem; 
+}
+
+button:hover {
+    transition: background 600ms,
+                color 600ms,
+                outline 400ms;
 }
 
 button:hover,
@@ -268,7 +274,7 @@ img.map {
 
 /* Lore */
 
-/* Session Recaps */
+/* Session */
 
 a {
     text-decoration:  none; 
@@ -291,4 +297,8 @@ ul > li {
     display: none; 
 }
 
-
+i.fa-angle-double-left {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: var(--text-secondary);
+}
