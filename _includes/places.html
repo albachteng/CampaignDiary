@@ -16,17 +16,21 @@
     {% for city in site.places %}
 
         {% if city.region == region.name %}
-            <div class="container city {{ city.region | remove: ' ' }} hide">
-                <div>
-                    <h3>{{ city.name }}</h3>
+            <div class="city {{ city.region | remove: ' ' }} hide">
+                <h3>{{ city.name }}</h3>
+
+                <div class="container">
+                    
                     {% if city.img %}
                         <image class="map" src="{{ city.img }}"></image>
                     {% endif %}
+                    
+                    <p>{{ city.content }}</p>
+
                 </div>
-                
-                <p>{{ city.content }}</p>
 
             </div>
+        
         {% endif %}
 
     {% endfor %}

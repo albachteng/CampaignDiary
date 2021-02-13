@@ -221,7 +221,7 @@ img.character {
 }
 
 button {
-    background: var(--bg-secondary); 
+    background: #474766; 
     color: var(--text-secondary);
     width: 9rem;
     height: 3rem;
@@ -244,7 +244,7 @@ button {
 button:hover,
 button:focus {
     color: var(--text-primary);
-    background: var(--bg-primary);
+    background: var(--bg-secondary);
     outline: 1px outset #fff;
     text-decoration: underline; 
 }

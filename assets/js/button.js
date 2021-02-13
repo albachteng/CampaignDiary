@@ -14,6 +14,15 @@ const showRegion = (region) => {
     }
 }
 
+const hideRegion = () => {
+    for (let i = 0; i < cities.length; i++) {
+        cities[i].classList.add('hide'); 
+    }
+}
+
 document.addEventListener('click', (e) => {
     showRegion(e.target.classList[0]);
+    e.target.innerHTML = "Hide Region";
+    document.remove('click'); 
+    document.addEventListener('click')
 }); 
