@@ -2,6 +2,4 @@
 name: Silencing Compound
 type: consummable
 ---
-When a creature is successfully struck by a weapon or bullet coated in this sticky grey substance, it must make a DC15 Wisdom Save. On a failure, it becomes the center of a 20ft sphere of magical silence for 3 rounds. Adding it to your weapon or a bullet requires an action.
-
-Many spells require a verbal component, words of power that bend magic to the caster's will. 
+When a creature is successfully struck by a weapon or bullet coated in this sticky grey substance, it must make a DC15 Wisdom Save. On a failure, it becomes the center of a 20ft sphere of magical silence for 3 rounds. Adding it to your weapon or a bullet requires an action.<br><br>Many spells require a verbal component, words of power that bend magic to the caster's will. 

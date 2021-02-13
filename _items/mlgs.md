@@ -2,8 +2,5 @@
 name: Moonlight Greatsword
 type: weapon
 ---
-Beldryn briefly wielded this legendary artifact on *The Last Word* against a kraken. The kraken hid the face of a serenly smiling woman behind its hideous beak, and embraced both the sword and its bearer. All three were lost beneath the waves, along with the ship and most of its crew. 
-
-The Moon carries special significance to the inhabitants of Mondial, and to its religions. Worshippers of all the major gods of the pantheon have different theories as to what the Moon represents. In Lundis, it is called Malorn's Eye, watching over his worshippers. In Marina, it is believed to be Marinal's child, sacrificed to protect her people from endless seas. The Au'vanwa prophecy that the Moon is an egg, which will one day hatch into a great silver dragon to defeat the enemies of Mondial. 
-
-It must have been an impressive sword to receive such a title. 
+Beldryn briefly wielded this legendary artifact on *The Last Word* against a kraken. The kraken hid the face of a serenly smiling woman behind its hideous beak, and embraced both the sword and its bearer. All three were lost beneath the waves, along with the ship and most of its crew. <br><br>The Moon carries special significance to the inhabitants of Mondial, and to its religions. Worshippers of all the major gods of the pantheon have different theories as to what the Moon represents. In Lundis, it is called Malorn's Eye, watching over his worshippers. In Marina, it is believed to be Marinal's child, sacrificed to protect her people from endless seas. The Au'vanwa prophecy that the Moon is an egg, which will one day hatch into a great silver dragon to defeat the enemies of Mondial. 
+<br><br>It must have been an impressive sword to receive such a title. 

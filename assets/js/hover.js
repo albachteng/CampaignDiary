@@ -10,6 +10,7 @@ function navbarOut() {
 }
 
 if (window.innerWidth <= 601) {
+    console.log('hover off');
     navbar.removeEventListener("mouseover", navbarIn);
     navbar.removeEventListener("mouseleave", navbarOut);
 } else {

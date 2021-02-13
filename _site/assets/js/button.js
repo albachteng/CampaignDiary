@@ -22,7 +22,6 @@ const hideRegion = () => {
 
 document.addEventListener('click', (e) => {
     showRegion(e.target.classList[0]);
-    e.target.innerHTML = "Hide Region";
     document.remove('click'); 
     document.addEventListener('click')
 }); 
