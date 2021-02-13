@@ -209,6 +209,63 @@ img.character {
     }
 }
 
+/* Places */
+
+.region {
+    margin: 1rem 0; 
+}
+
+.region-image {
+    max-width: 12rem;
+    height: auto;
+}
+
+button {
+    background: var(--bg-secondary); 
+    color: var(--text-secondary);
+    width: 9rem;
+    height: 3rem;
+    margin: 0 auto;
+    padding: 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: sans-serif;
+    font-weight: bold; 
+    font-size: 1rem;
+    border: none; 
+    border-radius: 2px; 
+    cursor: pointer; 
+    text-decoration: none;
+    z-index: 1; 
+    margin-left: 1px;
+    margin-bottom: 1rem; 
+}
+
+button:hover,
+button:focus {
+    color: var(--text-primary);
+    background: var(--bg-primary);
+    outline: 1px outset #fff;
+    text-decoration: underline; 
+}
+
+button:focus {
+    outline: 1px inset #fff;
+    outline-offset: -2px;
+}
+
+button:active {
+    transform: scale(0.99);
+}
+
+img.map {
+    width: 100%;
+    max-width: 60rem;
+    height: auto; 
+    display: block; 
+}
+
+
 /* Lore */
 
 /* Session Recaps */
@@ -234,9 +291,4 @@ ul > li {
     display: none; 
 }
 
-.city > img {
-    width: auto;
-    max-height: 4rem; 
-    display: block; 
-}
 

@@ -1,25 +1,31 @@
 {% for region in site.regions %}
 
+<h1>{{ region.name }}</h1>
     <div class="container region">
-        <h2>{{ region.name }}</h2>
+        <div>
             {% if region.img %}
-                <image src="{{ region.img }}"></image>
+                <image class="region-image" src="{{ region.img }}"></image>
             {% endif %}
+        </div>
+
         <p>{{ region.content | markdownify }}</p>
-        <button class="{{ region.name | remove: ' ' }}">Show Region</button>
     </div>
+
+    <button class="{{ region.name | remove: ' ' }}">Show Region</button>
 
     {% for city in site.places %}
 
         {% if city.region == region.name %}
             <div class="container city {{ city.region | remove: ' ' }} hide">
-                <h3>{{ city.name }}</h3>
+                <div>
+                    <h3>{{ city.name }}</h3>
                     {% if city.img %}
-                        <br>
-                        <image src="{{ city.img }}"></image>
-                        <br>
+                        <image class="map" src="{{ city.img }}"></image>
                     {% endif %}
+                </div>
+                
                 <p>{{ city.content }}</p>
+
             </div>
         {% endif %}
 
