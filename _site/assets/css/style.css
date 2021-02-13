@@ -18,6 +18,10 @@ body {
     padding: 0;
 }
 
+h1 {
+    color: var(--text-secondary);
+}
+
 body::-webkit-scrollbar {
     width: 0.5rem;
 }
@@ -152,7 +156,7 @@ i {
 
 /* Landing Page */ 
 
-img {
+img.landing {
     max-width: 75%;
     height: auto; 
 }
@@ -167,28 +171,42 @@ img {
     line-height: 1.2rem;
 }
 
-/* Character */ 
+/* People */ 
 
 img.character {
-    width: 8rem;
-    height: 10rem;  
+    width: 10rem;
+    height: 12rem;  
     overflow: hidden; 
-    margin-top: 1rem;
     border-radius: 5px;
+    object-fit: cover; 
+    border: 1px inset var(--bg-secondary);
 }
 
 .name a {
     text-decoration: none; 
-    color: var(--text-primary);
+    color: var(--text-secondary);
 }
 
 .name a:hover {
-    color: var(--text-secondary); 
+    color: var(--text-primary); 
 }
 
 .container p {
     color: var(--text-primary);
     margin: 1rem 0;
+    max-width: 800px; 
+}
+
+@media only screen and (min-width: 601px) {
+    .container {
+        display: grid;
+        grid-template-columns: 13rem 2fr; 
+    }
+    .container p {
+        margin: 0; 
+        grid-column-start: 2; 
+        grid-row-start: 1; 
+    }
 }
 
 /* Lore */
