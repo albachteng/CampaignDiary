@@ -2,6 +2,4 @@
 name: Alva
 place: Lundis
 ---
-A Pygmie that the party befriended briefly during their assault on White Tower. Alva went to the dungeons below the Grand Cathedral with the party to find some friends trapped there. 
-
-She turned on the party later on, when Lem attempted to extort money out of her in exchange for saving her allies. 
+A Pygmie that the party befriended briefly during their assault on White Tower. Alva went to the dungeons below the Grand Cathedral with the party to find some friends trapped there. <br><br> She turned on the party later on, when Lem attempted to extort money out of her in exchange for saving her allies. 

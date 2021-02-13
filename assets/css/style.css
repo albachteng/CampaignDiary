@@ -209,6 +209,42 @@ img.character {
     }
 }
 
+.npc {
+    margin-bottom: 1rem;
+}
+
+.name h2 {
+    margin: 0; 
+}
+
+.radio {
+    display: inline-flex;
+    justify-content: center;
+    background: #474766;
+    border-radius: 2px;
+    width: 6rem;
+    height: 2rem;
+    margin: auto;
+    cursor: pointer;
+    padding: .25rem .5rem; 
+    line-height: 2rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.radio:hover {
+    background: var(--bg-secondary);
+    border: 1px inset var(--text-secondary);
+}
+
+.radio input {
+    position: absolute;
+    opacity: 0; 
+    cursor: pointer;
+}
+
 /* Places */
 
 .region {

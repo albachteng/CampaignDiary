@@ -1,7 +1,8 @@
 <div id="options">
     {% for item in site.data.places %}
+    <label class="radio" for="{{ item }}">{{ item }}
         <input type="radio" name="place" id="{{ item }}" value="{{ item }}">
-        <label for="{{ item }}">{{ item }}</label>
+    </label>
     {% endfor %}
 </div>
 <script src="{{ site.url }}/assets/js/script.js"></script>
