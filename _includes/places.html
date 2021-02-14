@@ -22,7 +22,7 @@
                 <div class="container">
                     
                     {% if city.img %}
-                        <image class="map" src="{{ city.img }}"></image>
+                        <image class="map" src="{{ city.img | relative_url }}"></image>
                     {% endif %}
                     
                     <p>{{ city.content }}</p>
