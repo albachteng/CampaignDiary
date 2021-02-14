@@ -330,9 +330,7 @@ a {
 blockquote {
     font-style: italic;
     font-weight: lighter;
-    font-size: 18px; 
     color: var(--text-primary);
-    padding: 5px 0 20px 20px;
 }
 
 ul > li {

@@ -11,6 +11,6 @@ The final room, apparently Malorn's, held only a single basin of water sitting i
 
 And then the torches sprang back into life. The door forward opened. They could see now above it, written in Common: "Show your humanity." 
 
-They exit the Deep Roads into the blinding light of Mondial's surface. They take an evening to rest at a kindly woodcutter's home. In the evening, Ulrach and Hubert are shocked to discover an anomaly in the sky: a crescent moon hanging low. But in Mondial, the moon never waxes or wanes. It has always been full. 
+They exit the Deep Roads into the blinding light of Mondial's surface. They take an evening to rest at a kindly woodcutter's home. In the evening, Ulrach and Hubert are shocked to discover an anomaly in the sky: a crescent moon hanging low. But in Mondial, the moon never waxes or wanes. It has always been full. Yet their hosts show no concern.
 
 Rawson's illness advances. He becomes desperate for water, moisture, anything. Ulrach stays awake the night, pouring water over Rawson's shivering form. Towards dawn, Rawson shudders, draws his last breath, and dies. 
