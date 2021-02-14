@@ -11,7 +11,7 @@
         <p>{{ region.content | markdownify }}</p>
     </div>
 
-    <button class="{{ region.name | remove: ' ' }}">Show Region</button>
+    <button class="{{ region.name | remove: ' ' }} button">Show Region</button>
 
     {% for city in site.places %}
 
@@ -19,7 +19,7 @@
             <div class="city {{ city.region | remove: ' ' }} hide">
                 <h3>{{ city.name }}</h3>
 
-                <div class="container">
+                <div>
                     
                     {% if city.img %}
                         <image class="map" src="{{ city.img | relative_url }}"></image>

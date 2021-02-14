@@ -1,6 +1,8 @@
 let buttons = document.getElementsByTagName("button");
 const cities = document.getElementsByClassName("city"); 
 
+console.log(buttons, cities); 
+
 const showRegion = (region) => {
     for (let i = 0; i < buttons.length; i++) {
         if (buttons[i].classList.contains(`${region}`)) {
@@ -22,6 +24,6 @@ const hideRegion = () => {
 
 document.addEventListener('click', (e) => {
     showRegion(e.target.classList[0]);
-    document.remove('click'); 
-    document.addEventListener('click')
+    document.removeEventListener('click', showRegion); 
+    document.addEventListener('click', showRegion)
 }); 

@@ -18,7 +18,10 @@ body {
     padding: 0;
 }
 
-h1 {
+h1,
+h2, 
+h3, 
+h4 {
     color: var(--text-secondary);
 }
 
@@ -218,25 +221,8 @@ img.character {
 }
 
 .radio {
-    display: inline-flex;
-    justify-content: center;
-    background: #474766;
-    border-radius: 2px;
-    width: 6rem;
-    height: 2rem;
-    margin: auto;
-    cursor: pointer;
-    padding: .25rem .5rem; 
-    line-height: 2rem;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-.radio:hover {
-    background: var(--bg-secondary);
-    border: 1px inset var(--text-secondary);
+    text-align: center; 
+    line-height: 2rem; 
 }
 
 .radio input {
@@ -252,11 +238,14 @@ img.character {
 }
 
 .region-image {
-    max-width: 12rem;
-    height: auto;
+    width: 90%;
+    min-height: 8rem;
+    overflow: hidden;
+    object-fit: cover;
+    max-height: auto;
 }
 
-button {
+.button {
     background: #474766; 
     color: var(--text-secondary);
     width: 8rem;
@@ -274,29 +263,29 @@ button {
     text-decoration: none;
     z-index: 1; 
     margin-left: 1px;
-    margin-bottom: 1rem; 
+    margin-bottom: .5rem; 
 }
 
-button:hover {
+.button:hover {
     transition: background 600ms,
                 color 600ms,
                 outline 400ms;
 }
 
-button:hover,
-button:focus {
+.button:hover,
+.button:focus {
     color: var(--text-primary);
     background: var(--bg-secondary);
     outline: 1px outset #fff;
     text-decoration: underline; 
 }
 
-button:focus {
+.button:focus {
     outline: 1px inset #fff;
     outline-offset: -2px;
 }
 
-button:active {
+.button:active {
     transform: scale(0.99);
 }
 
@@ -327,7 +316,9 @@ img.map {
     color: var(--text-secondary);
 }
 
-/* Lore */
+/* Arcana */
+
+
 
 /* Session */
 
