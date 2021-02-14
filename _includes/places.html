@@ -4,7 +4,7 @@
     <div class="container region">
         <div>
             {% if region.img %}
-                <image class="region-image" src="{{ region.img }}"></image>
+                <image class="region-image" src="{{ region.img | relative_url }}"></image>
             {% endif %}
         </div>
 
