@@ -7,7 +7,7 @@ The Hall of Egress appears to be composed of three rooms with challenges themed 
 
 For Marinal, the party needed to dive into murky waters to flip a switch that would open the way forward. The waters were occupied by an aboleth, which poisoned Rawson. Above the exit to this room, in Common, are inscribed the words: "Down to go up." 
 
-The final room held only a single basin of water sitting in the center of the room. Within the water, a single stone button. When pressed, a timer began counting down above the locked door - the only way forward. As the timer passed ten seconds, the lights went out and the timer glowed an angry orange color. The characters press the button again frantically, resetting the timer. After much hemming and hawing, the characters finally allow the timer to drop below 5. Lights flashed red as the timer struck zero...
+The final room, apparently Malorn's, held only a single basin of water sitting in the center of the room. Within the water, a single stone button. When pressed, a timer began counting down above the locked door - the only way forward. As the timer passed ten seconds, the lights went out and the timer glowed an angry orange color. The characters press the button again frantically, resetting the timer. After much hemming and hawing, the characters finally allow the timer to drop below 5. Lights flashed red as the timer struck zero...
 
 And then the torches sprang back into life. The door forward opened. They could see now above it, written in Common: "Show your humanity." 
 

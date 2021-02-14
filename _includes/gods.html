@@ -1,0 +1,7 @@
+{% for god in site.gods %}
+
+    <h2>{{ god.name }}</h2>
+    <h3>{{ god.moniker }} of {{ god.region }}<br>Domain: {{ god.domain }}</h3>
+    <p>{{ god.content }}</p>
+
+{% endfor %}

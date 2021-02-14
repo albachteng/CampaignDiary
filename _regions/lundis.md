@@ -1,5 +1,5 @@
 ---
 name: Lundis
-img: ../assets/images/Cathedral Ceiling.png
+img: {{ site.url }}assets/images/Cathedral Ceiling.png
 ---
 Smallest of the human Kingdoms, the city is protected primarily by its location: deep in the enchanted and beast-filled forests at the center of Mondial, where few dare to travel. Its proximity to The Circle of Illusion has led to the general belief that they are the most sympathetic to the practice of magic. Their major export is a variety of healing potion with a bioluminescent glow. The party learns from Talpa that their Church claims to have developed a means of preventing the frenzy that comes with the use of Artifacts.<br><br>With the destruction of White Tower, Lundis now exists only in the hearts of its scattered people. The fate of those who remained is unknown. The Queen is dead and the Church obliterated. 

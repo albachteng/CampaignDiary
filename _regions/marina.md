@@ -1,6 +1,6 @@
 ---
 name: Marina
-img: ../assets/images/Harbor.jpg
+img: {{ site.url }}assets/images/Harbor.jpg
 ---
 Canonically founded by the Goddess of Storm and Sea Marinal, 
 the people of Marina are a sea-faring sort, although they readily
