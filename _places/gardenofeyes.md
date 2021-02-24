@@ -3,3 +3,4 @@ name: Garden of Eyes
 region: Deep Roads
 img: 
 ---
+In the Deep Roads, hanging garden structures adjacent to the Maze Settlements seemed to house bizarre flora and insect-like monstrosities. It is unknwon what purpose the structure served, but the party burnt it to ash while fleeing through the darkness. 

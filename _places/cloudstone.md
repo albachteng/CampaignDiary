@@ -3,4 +3,4 @@ name: Cloudstone
 region: Deep Roads 
 img: 
 --- 
-description... 
+The name of the kingdom of the dwarves and of its capital city. It is barred to humanity and inscrutable in size and scope since it exists entirely underground. Some say it effectively has no borders at all, since humans avoid The Deep Roads. The only dwarf from Cloudstone that the party has met so far was Dundarrin, and he gave little away about its nature. All the party knows now is that Cloudstone apparently coordinated with Disparia to attack and destroy Lundis.  

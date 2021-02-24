@@ -3,3 +3,4 @@ name: Oarsrest
 region: Marina
 img: 
 ---
+One of the more sprawling cities of Marina, Oarsrest is a city of commerce and creation. Their chief export is the finely crafted ships of the King's Navy. The city sits in the shadow of Seawatch, the great mountain atop of which sits Balnying, the only known Goblin city on the surface. <br><br>It was here that the party encountered Scholar Melwyn for the last time, and defeated him. 

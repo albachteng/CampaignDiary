@@ -3,3 +3,4 @@ name: Borean's Post
 region: Marina
 img: 
 ---
+The party stopped here on their way to The Great Forest and the Circle of Illusion. It is named for one of the four winds, lesser deities in the Marinese faith. There is little here but warehouses and a tavern, being a trading post at a crossroads. The tavern, *The King's Justice*, is noted for its many portraits of criminals hung at the main square of *Chain's End*.
