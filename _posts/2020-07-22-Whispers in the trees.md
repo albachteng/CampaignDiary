@@ -1,11 +1,7 @@
 ---
 layout: post
 ---
-<blockquote>
-Entering into the forest has the effect of silencing the world. Even the wind goes quiet. All is still. You sense, rather than see, the trees pressing in against you, closing ranks. The dense, murky smells of moss and earth overwhelm your senses. In the stillness, a single, repetitive sound emerges: your own heartbeat. These woods fill you with dread and foreboding. 
-
-Less than an hour in, you stumble upon the first corpse, its back against a tree, lying with arms spread open, its vacant eye sockets lifted skyward. It is little more than a skeleton now. 
-</blockquote>
+>Entering into the forest has the effect of silencing the world. Even the wind goes quiet. All is still. You sense, rather than see, the trees pressing in against you, closing ranks. The dense, murky smells of moss and earth overwhelm your senses. In the stillness, a single, repetitive sound emerges: your own heartbeat. These woods fill you with dread and foreboding. <br><br>Less than an hour in, you stumble upon the first corpse, its back against a tree, lying with arms spread open, its vacant eye sockets lifted skyward. It is little more than a skeleton now. 
 
 The Forest plays its tricks. The party wanders for days. They get lost, hear voices and the faint ringing of bells and at one point wake up to find that all of the luggage has been carefully unpacked and placed around their camp in a spiral pattern, organized by size and color. The party loses time - an entire day passes without making any progress as they become entranced by a caterpillar crawling along a branch. At night, unblinking eyes watch them from just beyond the fire's dim light. 
 
@@ -27,8 +23,6 @@ Each character has an encounter with an illusion from their past.
 
 It is Ulrach who manages to break through the illusion to see that The Gentleman is behind it all. 
 
-<blockquote>
-The figure before you sprouts horns. Talpa’s skin grows scaly and shimmers golden against the light of the fire. Where once was Talpa now sits The Gentleman. “What I want would be so exquisitely agreeable to your kind, if you would only see His Beauty. Our mother was the Horned Queen that rutted with Beasts. Our father is the Black-winged Sky. Let us blot out the light of this hateful moon forever, my friend. There is no need for your fantasy of silver dragons. The Raven King is Chief of Chiefs. Help me blot out the light. Help me take back my mirror.”
-</blockquote>
+>The figure before you sprouts horns. Talpa’s skin grows scaly and shimmers golden against the light of the fire. Where once was Talpa now sits The Gentleman. “What I want would be so exquisitely agreeable to your kind, if you would only see His Beauty. Our mother was the Horned Queen that rutted with Beasts. Our father is the Black-winged Sky. Let us blot out the light of this hateful moon forever, my friend. There is no need for your fantasy of silver dragons. The Raven King is Chief of Chiefs. Help me blot out the light. Help me take back my mirror.”
 
 Ulrach refuses. The Gentleman snaps his fingers. "So be it." A column of darkness descends on the forest, and Ulrach is plunged into pitch black night. 

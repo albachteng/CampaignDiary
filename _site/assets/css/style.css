@@ -322,6 +322,10 @@ img.map {
 
 /* Session */
 
+p {
+    max-width: 600px;
+}
+
 a {
     text-decoration:  none; 
     color: var(--text-secondary);

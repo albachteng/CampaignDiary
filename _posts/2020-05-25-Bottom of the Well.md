@@ -1,15 +1,13 @@
 ---
 layout: post
 ---
-<blockquote>You descend forty feet down the old well, noting the intricate carvings along its edges, matching them to the Lighthouse at the tip of the peninsula Marinal's Call. At its base is a staircase spiraling even further into the depths. The hall to the south is caved in, but to the north you are met with high, stained-glass windows. As you continue your exploration, the ceiling opens up into a high dome. Reflected in the glass, in frescoes, in statues carved into columns, the cathedral's repeating motif is that of a serenely smiling sun and feathered wings.</blockquote>
+>You descend forty feet down the old well, noting the intricate carvings along its edges, matching them to the Lighthouse at the tip of the peninsula Marinal's Call. At its base is a staircase spiraling even further into the depths. The hall to the south is caved in, but to the north you are met with high, stained-glass windows. As you continue your exploration, the ceiling opens up into a high dome. Reflected in the glass, in frescoes, in statues carved into columns, the cathedral's repeating motif is that of a serenely smiling sun and feathered wings.
 
 <image src="{{ site.url }}/assets/images/Cathedral Ceiling.png"></image>
 
 The party's investigations topside lead them to Ora, a witch at the edge of the woods a day's journey due north of Redwater. She reveals to the party that she has been hiding from both the Marinese authorities - whose anti-magic sensibilities were on full display in Redwater - as well as the Circle of Illusion, a coalition of mages deep in the forests to the north, past the river <em>Llewellyn's Chain</em>. Her practices have aided the locals to some degree, so they keep her presence a secret.
 
-<blockquote>
-    "For ten years, I have lived here at the edge of the forest. And every night, for ten years, I cast the same spell: I send my awareness out into the nearby forest and detect the other minds as they come and go from my home. For ten years, I have lived in fear that I would detect the Mages of the Circle coming from the North. Ten days ago, I detected something else: empty minds, emerging from deep within the earth."
-</blockquote>
+>"For ten years, I have lived here at the edge of the forest. And every night, for ten years, I cast the same spell: I send my awareness out into the nearby forest and detect the other minds as they come and go from my home. For ten years, I have lived in fear that I would detect the Mages of the Circle coming from the North. Ten days ago, I detected something else: empty minds, emerging from deep within the earth."
 
 At the bottom of the old well, the party discovers a sunken cathedral just below the surface of the earth. Its high stained-glass windows face only earth and darkness now. At the east end of the grand hall, the party fights a trio of ghouls and discovers the catacombs of a once-powerful elvish race. To the west, the party finds three statues and a glowing orange lichen. The statues depict a bent humanoid wearing a cracked laughing mask, a chained giant holding a hammer and chisel, and a tall man with a serenly smiling sun for a face.
 
