@@ -1,0 +1,42 @@
+---
+layout: post
+---
+>The smoldering flames of your explosive trap cast dancing shadows through the trees, while the accumulating snow makes the scene washed-out, colorless. After the activity of the brief but intense battle, your breath steadies and your panting and sweating gives way to the deep chill of the northwest hills. A lone raven calls out from somewhere high among the trees. Dundarrin, Makar and Simon finish consolidating the last of the shipment they deem worth taking and hitching the remaining horses to the wagon. 
+
+After the battle, Makar converses with Rawson, complimenting his prowess with a bow and proposing that perhaps, when all this is over, the party might consider taking on work from Disparia. Simon informs the party that the ambassador in Lundis has offered the party the use of a hidden vessel off the West Chain to return to Chain's End. Lem accepts a locket from Simon who requests that it be delivered to Abigail, in the employ of Duke Geoffrey. During their travel back to civilization, the Great Forest once again makes its dangers known to the party: 
+
+>After an hour of travel, you arrive at a strange tableau in the middle of the road. The corpse of a squirrel is placed next to an acorn, followed by (in order) the corpse of a cat, a dog, a wolf, and a bear. Behind the bear, the earth has been upturned and there are strange scuff marks in the snow, as if there had been another corpse behind it, dragged off. From the trees you can hear the calls of an unkindness of ravens.
+
+The party moves on quickly and returns to The Open Ring outside the city gates and to *The Black Forest*. While the others are resting, Lem experiments with the Mirror, discovering that he can use Myca to activate it. Within the mirror, Lem sees the same dark-haired figure wearing thick leather gloves, who silently begs Lem to complete the ritual that Ulrach refused. Lem fills a silver cup with his blood (using his silver bell as a makeshift cup) and paint his face with a sheaf of wheat dipped in the chalice. The ritual drains Lem, but it works. 
+
+The figure in the mirror begs him to speak. "Who are you?" Lem asks. Tears fill the man's eyes. "I have not heard another voice... in such a long time." Lem repeats his question. "I was called Einan." 
+
+Lem, ever slow to trust, proposes that he can help free Einan from his imprisonment if he can help save his friends. Einan feeds Lem key information that will help the party defeat Sulyvahn, who Einan claims is not human. The long-ago Prince of Disparia also claims that Lundis should be razed to the ground, that the Pontiff's plans are unholy and perverse. 
+
+The next morning, the party meets with Alva, who helps them re-enter the city with a perfect illusion that confuses the guards. The magic seems to exhaust her and she exhorts the party to remember: "It always costs something. That's what your kind don't understand."
+
+The revolutionaries provide disguises that roughly mimic the appearance of the royal guard. Once in the sewer system, the party splits off with Alva to seek the Catacombs and, hopefully, their friends. 
+
+They find the surgical theater quickly, the catacombs mostly abandoned now that open rebellion has begun above. What they find of their friends is shocking:
+
+>The half-elf before you is deformed and broken so horribly that it takes you a moment to recognize him. His crisp and precise leather armor has been exchanged for some loose weave that barely qualifies for a burlap sack. He has been shaven. But worst of all, it is hard to recognize Hubert without his habitual posture - catlike in that it is both alert and relaxed. The reason, you realize, is that he is on the floor. And the next revelation, with horror, is why. 
+
+>Huberts legs have been broken and healed in the wrong shape, repeatedly. The result is that his legs are bent at several points where they should not be into crumpled and twisted stubs. His only means of locomotion is to drag himself across the floor on his arms. He is crippled. 
+
+>It is hard to say who got the worst of it: Ulrach sits cross-legged facing a corner. Minotaurs were not unheard of among the Bronze Vault of Filia, so you have seen minotaurs with broken horns before - always with a tale of bravery or a rugged fight with some beast. But this is the first time you have seen one whose horns have been completely removed, surgically. A fresh scar and caked blood give Ulrach a capuchin of ruddy brown.
+
+When engaged in conversation, Ulrach speaks distractedly and in strange rhymes. "The stone man gone to ground, where do you think he is now?" Hubert explains how he tried to free Ulrach and killed Noska. Patting Ulrach: "This one I saved." Hubert is lashed to Ulrach's back. 
+
+Newly promoted High Inquisitor Narissa finds them and attacks, but is quickly overpowered by the party, even with a group of Assassins at her side. The party emerges into the cold night, shouts going up all around them and fires breaking out, the rebellion in full swing. 
+
+In the courtyard, just ahead, a middle-aged man in white robes is removing his rings, a pleasant smile on his face. Sulyvahn speaks: 
+
+>“Where I come from, imperfection is not tolerated.” He gently removes the circlet from his temple and sets it down. “Of course, their perception is rather skewed. For them, what is considered perfect might change on a whim. Certainly, ruthlessness was always thought perfect... If you have what you want, it is because you are strong. If you do not, it is because you are weak. There is beauty in the simplicity of it. I suppose you could say I wanted to share the beauty, and shed the ugliness of that world.
+
+>...When I first arrived here, the dust was still settling. There was nothing. Only pockets of survivors. The ruins of humanity. All that could be salvaged. I was moved. They had nothing. And still, they clung to such -- vanity. The illusion of civility... a grandiose sense of their own significance. At first I thought that they had gone mad. But the longer I stayed here, the more I could see the beauty of their derangement.
+
+>“They were wrong of course. But then, if you had spoken with any of the Bilegdil, you might think the same: absolutely insane. You see how immaterial your reality can be to another?” 
+
+>Over the last thousand years, these people have taught me much of themselves. I have learned much of my own people as well, by their absence. First: that this sphere is every bit as brutal as my kind have led me to believe - entire races left to claw and scratch at life on an inhospitable rock filled with a fiery hatred that would consume them if ever they dared to scratch too deep. Second: those races that survive are superior in no way, except in this - they were willing to do whatever was necessary for their own survival. And last: we owe nothing to those that came before us. Malorn said so himself: Let these lights at last be snuffed out forever more. Let the age of the Black Moon, of dark and mists take over this mundane earth. Let none remain who remember the fever-dreams of light.
+
+>I stayed here in Mondial to do what Malorn would not: to give these pathetic, miserable people a fighting chance. They are my children, and I have dragged them, kicking and screaming, into the future for generations now. I will see them stand on their own. If I must kill, or incite war or commit genocide to make it so, I will. For they are all that I have. And my enemy is greater than any kingdom.”

@@ -213,7 +213,12 @@ img.character {
 }
 
 .npc {
+    margin-left: 3rem;
     margin-bottom: 1rem;
+}
+
+.npc-content {
+    margin-left: 1rem;
 }
 
 .name h2 {

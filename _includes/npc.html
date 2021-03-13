@@ -1,8 +1,8 @@
 {% for npc in site.npcs %}
    
-    <div class="container npc {{ npc.place | remove: ' ' }} hide">
+    <div class="npc {{ npc.place | remove: ' ' }} hide">
         <div class="name"><h2>{{ npc.name }}</h2></div>
-        <div>{{ npc.content | markdownify}}</div>
+        <div class="npc-content">{{ npc.content | markdownify}}</div>
     </div>
 
 {% endfor %}
