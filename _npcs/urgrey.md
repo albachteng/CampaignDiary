@@ -1,0 +1,7 @@
+---
+name: Scholar Urgrey
+place: Lundis
+---
+His origins are unknown to the party, but he was apparently a Scholar of some rank. The title typically is reserved for one learned in artificery and archaeology, and is often associated with the School of Talen. Scholar Urgrey wore a telescopic monocle and his primary function in the Catacombs of White Tower was to remove brain fluid from humanoid subjects - a practice which he revealed was necessary for the creation of Communion, the Church's antidote to the frenzied madness caused by the use of certain magical items. 
+<br><br>
+Many died in the fall of White Tower, but Scholar Urgrey's fate remains unknown. 
