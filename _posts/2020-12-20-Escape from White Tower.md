@@ -14,3 +14,21 @@ Like many of the citizens of White Tower, the party takes to the bare hills off 
 They arrive in Winndale, the small village already overrun with refugees, a day later. Exhausted from lack of sleep and cold, many are sleeping in barns or begging at houses to be let in. Huddled masses congregate at the gates. Some are constructing makeshift tents from old blankets and branches, building fires. Many took nothing with them when they fled the city. 
 
 They are taken in at Raventree Estate, the occupants of which happen to be - surprisingly, in Lundis - elves. The elderly Lady of the manor introduces herself as Baroness Elwyn. She invites the party to stay on the condition that they share everything they know of what happened in White Tower. 
+
+Hubert has a private conversation with Elwyn in the middle of the night, and Ulrach is plagued by nightmares.  
+
+The party sets out for The Chain, hoping to find the Marinese ambassador's promised vessel. What they find could generously be called a raft, and Rogga is sleeping underneath it. In his characteristically cryptic way, the dwarf proposes a riddle: "How you put out fire? Skeleton man fight bird man. Bird man fight fire. Fight fire all wrong. Send water, send earth. Best to fight fire with more - let it burn..."
+
+After a confused conversation about fire and missing memories, Rogga magically levitates the raft into the water for the party - demonstrating a great deal of hidde power and a confused recollection of his own history. "I don't remember..." he mutters before leaving the party. Ulrach commiserates: "Sometimes it is good to forget." 
+
+Along the river journey south, the party encounters glowing runes etched into large stones along the side of the river. With the help of Myca, Lem is able to interpret several of them. The full text is below. After deciphering three stones, the story begins repeating. 
+
+>The Pygmies worship the forest, and sought to complete Malorn’s work to protect it. But in doing so, they had consigned themselves to being trapped forever. Only within the painting could they be freed of their service to Him. 
+
+>The Pygmies kept their god in a lake, sleeping. But they knew in time he would wake up. Severing its connection to the Raven King gave them time. They could paint another world. 
+
+>Malorn promised them to wash away the Fire’s influence if it ever returned. And so began the endless cycle. The God of Death and the God of Life, forever bound Mondial.
+
+The party is stopped by bandits near Notheon's Post, but Ulrach speaks to the empty air and apparently summons a murderous cloud of ravens that immediately tear through the thieves, startling his companions. 
+
+Finally, arriving in Notheon's Post, the party rests and changes vessels. The soldiers stationed at the northern outpost have orders to escort them to Chain's End. They pass by a wandering Golem, circling a meadow alone near the former Circle of Illusion. They pass by the towering column of darkness where Rawson killed the darkbeast. They pass freakishly large wolves that prowl along the northern shore, following the boat as long as they dare before disappearing into the underbrush. Then finally, they arrive at the mouth of the river and the city of Chain's End, capitol of Marina, which sits above its waters. 
