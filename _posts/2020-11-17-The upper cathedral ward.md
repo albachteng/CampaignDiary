@@ -27,6 +27,8 @@ They find the surgical theater quickly, the catacombs mostly abandoned now that 
 
 When engaged in conversation, Ulrach speaks distractedly and in strange rhymes. "The stone man gone to ground, where do you think he is now?" Hubert explains how he tried to free Ulrach and killed Noska. Patting Ulrach: "This one I saved." Hubert is lashed to Ulrach's back. 
 
+Lem attempts to extort payment from Alva in exchange for helping to free her injured friend from the cells. Alva abandons the party with her weak pygmy friend, furious and disgusted with the party. 
+
 Newly promoted High Inquisitor Narissa finds them and attacks, but is quickly overpowered by the party, even with a group of Assassins at her side. The party emerges into the cold night, shouts going up all around them and fires breaking out, the rebellion in full swing. 
 
 In the courtyard, just ahead, a middle-aged man in white robes is removing his rings, a pleasant smile on his face. Sulyvahn speaks: 

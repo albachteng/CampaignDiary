@@ -1,0 +1,6 @@
+---
+name: The Dungeons of Chain's End
+region: Marina
+img: 
+---
+The party entered this dungeon to place Myca, who they believed would grow into a new protective seal on the infection from The Deep. It is the oldest part of Chain's End, deep below sea level, and seemed to operate as an enormous engine for the complex water systems of the city. The infected of Chain's End turned into monstrous shark-human hybrids with barnacles growing out of their slick, scaly flesh. The dungeons also featured some surprising art depicting the gods of Mondial, implying that the religions of this world are far older than one might expect. 
