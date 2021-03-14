@@ -2,6 +2,6 @@
 name: Kolat
 place: Lundis
 ---
-Last mage to remain at the Circle of Illusion, Kolat sought to unlock the secrets of The Mirror of Einan. He seemed to be mad when the party found him, and believed The Gentleman to be his "fairy servant." 
+Last mage to remain at his post at the Circle of Illusion, Kolat sought to unlock the secrets of The Mirror of Einan. He seemed to be mad when the party found him, and believed The Gentleman to be his "fairy servant." 
 <br><br>
-When Kolat failed to deliver on his promise to use the power of the Mirror, The Gentleman killed him. 
+The party defeated him narrowly, and when Kolat failed to deliver on his promise to use the power of the Mirror, The Gentleman killed him. 

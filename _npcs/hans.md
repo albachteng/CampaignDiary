@@ -1,0 +1,5 @@
+---
+name: Hans, "Cauliflower Ear"
+place: Marina
+---
+A ruffian that Ulrach once fought in a bar in Redwater, Hans appears to have moved up in life. When Ulrach saw him last, he expressed remorse for his prior unkindness. He is now in service to Duke Geoffrey, a man famous for offering second chances - perhaps to his detriment. 

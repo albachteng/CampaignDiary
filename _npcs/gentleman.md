@@ -2,8 +2,8 @@
 name: The Gentleman
 place: The Weald
 ---
-The Gentleman is a member of an unknown fae race that predates Malorn. He claims to be "The First Lieutenant and Spy of the Raven King," but much of what he says sounds like pure madness. He seems to think of the party, especially Ulrach, as his pets. 
+The Gentleman is a member of an unknown fey race that predates Malorn. He claims to be "The First Lieutenant and Spy of the Raven King," but much of what he says sounds like pure madness. He seems to think of the party, especially Ulrach, as his pets. 
 <br><br>
-The Gentleman is a powerful creature. Normally prim and elegantly dressed, the party has seen him lose his mind to frenzy, sprouting scaled and feathered wings and breathing fire as some form of feathered dragon. But the Gentleman cannot seem to break through the veil separating The Weald and Mondial without help - help that that party refuses to give. 
+The Gentleman is a powerful creature. Normally prim and elegantly dressed, the party has seen him lose his mind to frenzy, sprouting scales and feathered wings and breathing fire as some form of black-feathered dragon. But the Gentleman cannot seem to break through the veil separating The Weald and Mondial without help - help that that party refuses to give. 
 <br><br>
-He has also implied that he is responsible for the Lady Dauphine's madness. 
+He has also implied that he is responsible for the Lady Dauphine's madness.

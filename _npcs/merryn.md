@@ -2,4 +2,4 @@
 name: Merryn
 place: Marina
 ---
-The wheelchair-bound former Lundisian assassin now lives a quiet life undercover as a Knight of Marina. His last known post was at North Tower on the edge of the Great Forest, watching the comings and goings of the brave and foolhardy alike. 
+The wheelchair-bound former Lundisian assassin now lives a quiet life undercover as a Knight of Marina. His last known post was at North Tower on the edge of the Great Forest, watching the comings and goings of the brave and foolhardy alike.

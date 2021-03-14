@@ -2,4 +2,4 @@
 name: King Balin
 place: Marina
 ---
-Widely believed to be a drunk and a fool, the party was granted an audience with the king. It did not go well, but at Geoffrey's urging, Balin agreed to hire the party for another mission. 
+Widely believed to be a drunk and a fool, the party was granted an audience with the king. It did not go well, but at Geoffrey's urging, Balin agreed to hire the party for another mission. Balin is a bear of a man, catatonically alcoholic and mostly appears indifferent to matters of state. Nevertheless, he is clearly eager for a fight with Disparia, and considers their nation the greatest threat to Marinese wellfare. 

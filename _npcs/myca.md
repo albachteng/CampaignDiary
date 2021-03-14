@@ -1,7 +1,7 @@
 ---
-name: MYCA
+name: Myca
 place: DeepRoads
 ---
-The Myconid Containment Apparatus is a collection of spores that ostensibly were set to grow at the entrances to the Deep Roads long ago. They are apparently a modified version of the infection spores that drive living creatures mad. MYCA's primary function is to prevent infected individuals from exiting the underground. 
+The Myconid Containment Apparatus are a collection of spores that ostensibly were set to grow at the entrances to the Deep Roads long ago. They are apparently a modified version of the infection spores that drive living creatures mad. MYCA's primary function is to prevent infected individuals from exiting the underground. 
 <br><br>
-The party left Myca in Chain's End, capital of Marina, to prevent further outbreak of the plague there. 
+The party left Myca in Chain's End, capital of Marina, to prevent further outbreak of the plague there.
