@@ -1,80 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
-        <link href="https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Castle marina's dungeons</title>
-</head>
-  <body>
-    <nav class="navbar" id="navbar">
-    <ul class="navbar-nav">
-
-        
-
-            <li class="logo">
-                <a href="/" class="nav-link">
-                    <i class="fa fa-moon-o"></i>                    
-                    <span class="link-text">Home</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/people.html" class="nav-link">
-                    <i class="fa fa-users"></i>                    
-                    <span class="link-text">People</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/places.html" class="nav-link">
-                    <i class="fa fa-map"></i>                    
-                    <span class="link-text">Places</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/items.html" class="nav-link">
-                    <i class="fa fa-magic"></i>                    
-                    <span class="link-text">Items</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/arcana.html" class="nav-link">
-                    <i class="fa fa-shield"></i>                    
-                    <span class="link-text">Arcana</span>
-                </a>
-            </li>
-
-        
-
-            <li class="nav-item">
-                <a href="/sessions.html" class="nav-link">
-                    <i class="fa fa-book"></i>                    
-                    <span class="link-text">Session</span>
-                </a>
-            </li>
-
-        
-
-    </ul>
-</nav>
-    <main id="main">
-          <h1>Castle marina's dungeons</h1>
-    <h2>10 Jan 2021</h2>
-    <blockquote>
+I"œ<blockquote>
   <p>At the lowest level of Castle Marina is a large set of heavy iron double doors. Over the door hangs an iron portcullis. Wooden beams have been shoved into place between the grate to reinforce it from without. The guards expertly begin the process of removing the wooden beams one by one, as if they had practiced this several times before. Soldiers stand back against the wall with firearms and crossbows at the ready. The portcullis is drawn by a lever, accompanied by the sound of rushing water. When the portcullis is raised, the guard brings a heavy set of keys to the door. The key with the most rust is selected and inserted into the door. With the help of several others, the great door is slowly swung outwards, revealing a wide stone staircase spiraling down into darkness.</p>
 </blockquote>
 
@@ -99,23 +23,10 @@
 <p>They pass by murals depicting Malorn watching impassively as dozens of humanoid figures appear to burn. Myca identifies the central node. The party needs to clear the room of enormous, shark-like humanoids with barnacles growing along their skin. One drops from the ceiling and surprises them.</p>
 
 <blockquote>
-  <p>Its skin is scaly and wet. Its giant back bent and crumpled under the weight of an enormous head. The sorry creature has the jaws of a grinning shark, its maw a set of jagged razor blades, rows upon rows of glittering glass daggers leading back down its dark gullet. Its bony knuckles drag on the floor, hunched over as it is. You can tell that this one has been here a while by the barnacles that have grown all over its back and chest. It reeks of rotting fish and seascum. With an inhuman gurgling roar it lunges at you, ferocious in its speed.</p>
+  <p>Its skin is scaly and wet. Its giant back bent and crumpled under the weight of an enormous head. The sorry creature has the jaws of a grinning shark, its maw a set of jagged razor blades, rows upon rows of glittering glass daggers leading back down its dark gullet. Its bony knuckles drag on the floor, hunched over as it is. You can tell that this one has been here a while by the barnacles that have grown all over its back and chest. It reeks of rotting fish and seascum. With an inhuman gurgling roar it lunges at you, ferocious speed.</p>
 </blockquote>
 
 <p>Curiously, during the fight, Ulrach exhibits another newfound power - firebreathing. The party does not question it, growing cautiously accustomed to his emerging abilities.</p>
 
 <p>At the back of the dungeon, where they leave Myca, they find a beautiful doorway painted right into the wall. It depicts a castle on the precipice of a cliff over the sea. Lem investigates with his magic but learns only that it is a portal. Eileen mentions that the pygmies that were trapped down here always headed right for this area and were never seen again.</p>
-
-    <button class="button" onclick="history.back()">
-        <i class="fa fa-angle-double-left"></i>
-    </button>
-    </main>
-    <div id="push">.
-      <br>
-      <br>
-      <br>
-      <br>
-    </div>
-    <script src="/assets/js/hover.js"></script>
-  </body>
-  </html>
+:ET

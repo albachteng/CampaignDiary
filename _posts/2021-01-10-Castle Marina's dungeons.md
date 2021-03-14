@@ -23,7 +23,7 @@ Their first attempt - turning all the statues to face the Raven in the center of
 
 They pass by murals depicting Malorn watching impassively as dozens of humanoid figures appear to burn. Myca identifies the central node. The party needs to clear the room of enormous, shark-like humanoids with barnacles growing along their skin. One drops from the ceiling and surprises them. 
 
->Its skin is scaly and wet. Its giant back bent and crumpled under the weight of an enormous head. The sorry creature has the jaws of a grinning shark, its maw a set of jagged razor blades, rows upon rows of glittering glass daggers leading back down its dark gullet. Its bony knuckles drag on the floor, hunched over as it is. You can tell that this one has been here a while by the barnacles that have grown all over its back and chest. It reeks of rotting fish and seascum. With an inhuman gurgling roar it lunges at you with ferocious speed. 
+>Its skin is scaly and wet. Its giant back bent and crumpled under the weight of an enormous head. The sorry creature has the jaws of a grinning shark, its maw a set of jagged razor blades, rows upon rows of glittering glass daggers leading back down its dark gullet. Its bony knuckles drag on the floor, hunched over as it is. You can tell that this one has been here a while by the barnacles that have grown all over its back and chest. It reeks of rotting fish and seascum. With an inhuman gurgling roar it lunges at you, ferocious in its speed. 
 
 Curiously, during the fight, Ulrach exhibits another newfound power - firebreathing. The party does not question it, growing cautiously accustomed to his emerging abilities. 
 
