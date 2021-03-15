@@ -340,6 +340,7 @@ blockquote {
     font-style: italic;
     font-weight: lighter;
     color: var(--text-primary);
+    max-width: 500px;
 }
 
 ul > li {
