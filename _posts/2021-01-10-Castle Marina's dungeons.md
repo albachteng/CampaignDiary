@@ -13,7 +13,7 @@ Eileen's traps are devious. They pass through a gauntlet of flamethrowers (takin
 
 While fighting off infected monstrosities, their pygmy companion turns on them and reveals herself to be Alva - the same Pygmy that had accompanied the party into White Tower. She blasts Rawson, Isho and Lem with ice and fire, blaming Lem for the death of her companion in the White Tower dungeons. 
 
-Alva dies. The infected die. The party moves on. 
+Alva falls. The infected die. The party moves on. 
 
 They find Eileen, called The Crow for her black-feathered garb. She is a goblin with a mechanical arm. In the dungeons, she has taken upon herself the task of setting traps and segregating the turned infected from those still healthy enough to survive above. She is puzzling over a statue puzzle in a side-room when the party enters. 
 
@@ -21,10 +21,14 @@ The sign above the door to this room reads, in familiar, Common script: "Face yo
 
 Their first attempt - turning all the statues to face the Raven in the center of the room, sees Ulrach driven mad by frenzy. The party works together to restrain him and feed him Communion. Their second attempt - each facing a different statue of their choice, has some interesting consequences, including a boon for Rawson, who selects the chained giant. 
 
-They pass by murals depicting Malorn watching impassively as dozens of humanoid figures appear to burn. Myca identifies the central node. The party needs to clear the room of enormous, shark-like humanoids with barnacles growing along their skin. One drops from the ceiling and surprises them. 
+They pass by murals depicting Malorn watching impassively as dozens of humanoid figures appear to burn. Myca identifies the central node. Outside of the door to this room, Ulrach observes something strange, a hallucination or a vision meant for his eyes alone: 
+
+>The Gentleman is standing by the door, and he is frothing at the mouth. His scales glisten. His horns extend and curl back on themselves. Smoke and heat radiate from his mouth and nostrils at each breath, like a bellows. His immaculately manicured fingers  contort into claws, his knees bend backwards and ridges of bone start to rip through his green-gold doublet at the back. In your mind, you can almost read, rather than hear, his thoughts: “Kill it! Beast! Kill it! Kill it! Unsightly beast!” His neck extends. You feel yourself on the precipice of something dangerous and powerful, as if you are being let into something - peeking behind a curtain you are not meant to notice.
+
+Myca tasks the party with clearing the room of enormous, shark-like humanoids with barnacles growing along their skin. One drops from the ceiling and surprises them. 
 
 >Its skin is scaly and wet. Its giant back bent and crumpled under the weight of an enormous head. The sorry creature has the jaws of a grinning shark, its maw a set of jagged razor blades, rows upon rows of glittering glass daggers leading back down its dark gullet. Its bony knuckles drag on the floor, hunched over as it is. You can tell that this one has been here a while by the barnacles that have grown all over its back and chest. It reeks of rotting fish and seascum. With an inhuman gurgling roar it lunges at you, ferocious in its speed. 
 
-Curiously, during the fight, Ulrach exhibits another newfound power - firebreathing. The party does not question it, growing cautiously accustomed to his emerging abilities. 
+Curiously, during the fight, Ulrach exhibits another newfound power - firebreathing. The party does not question it, growing cautiously accustomed to his emerging abilities. The razogrins die after wreaking havoc on the party, and making at least one serious threat to drag Rawson into a watery grave. 
 
 At the back of the dungeon, where they leave Myca, they find a beautiful doorway painted right into the wall. It depicts a castle on the precipice of a cliff over the sea. Lem investigates with his magic but learns only that it is a portal. Eileen mentions that the pygmies that were trapped down here always headed right for this area and were never seen again.

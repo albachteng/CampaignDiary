@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
->Beware, boys, of Einan the Black!<br>He’ll come for your Jenny and Jack!<br>With a sweep of Dark Wings <br>He’ll burn Cobbler’s and Kings<br>So Beware, boys, of Einan the Black!
+>Beware, boys, of Einan the Black!<br>He’ll come for your Jenny and Jack!<br>With a sweep of Dark Wings <br>He’ll burn Cobblers and Kings<br>So Beware, boys, of Einan the Black!
 
 While Geoffrey recovers from the wounds he sustained during the attempt on his life, newly-promoted Captain Heywood Loom and (disguised) Marinese Knight Ada Dalton give the adventurers a thorough debriefing and their gratitude for saving Duke Geoffrey. As Outlanders - folk not from Mondial - they are treated to a lesson in local history. 
 
